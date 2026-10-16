@@ -1,0 +1,1011 @@
+Order ID,Customer ID,Product Name,Category,Quantity,Unit Price,Total Amount,Order Date,Payment Mode,Delivery Status,City
+ORD0001,CUST1189,T-Shirt,Clothing,3,699,2097,2025-03-13,Net Banking,Delivered,Nashik
+ORD0002,CUST1152,Headphones,Electronics,5,2499,12495,2025-04-10,Debit Card,Delivered,
+ORD0003,CUST1277,Python Book,Books,2,799,1598,2025-07-11,UPI,Delivered,Aurangabad
+ORD0004,CUST1170,Smartphone,Electronics,1,18999,18999,2025-02-28,Cash on Delivery,Returned,Nashik
+ORD0005,,Shoes,Clothing,1,1999,1999,2025-05-11,Net Banking,Delivered,Mumbai
+ORD0006,CUST1053,Perfume,Beauty,2,1299,2598,2025-09-22,Credit Card,Shipped,Navi Mumbai
+ORD0007,CUST1081,Dinner Set,Home & Kitchen,3,1299,3897,2025-07-25,Cash on Delivery, SHIPPED ,Nagpur
+ORD0008,CUST1191,Jeans,Clothing,2,1499,2998,2025-09-17,Credit Card,Processing,Mumbai
+ORD0009,CUST1296,Shoes,Clothing,4,1999,7996,2025-07-09,Net Banking,Delivered,Mumbai
+ORD0010,CUST1252,Dinner Set,Home & Kitchen,2,1299,2598,2025-08-05,Cash on Delivery,Delivered,Kolhapur
+ORD0011,CUST1009,Smartphone,Electronics,1,18999,18999,2025-12-11,UPI,Delivered,Thane
+ORD0012,CUST1289,Headphones,Electronics,1,2499,2499,2025-06-12,Debit Card,Delivered,Navi Mumbai
+ORD0013,CUST1268,Dinner Set,Home & Kitchen,1,1299,1299,2025-11-24,Credit Card,Delivered,Navi Mumbai
+ORD0014,CUST1172,Shoes,Clothing,5,1999,9995,2025-04-09,Debit Card,Delivered,Nashik
+ORD0015,CUST1005,Laptop,Electronics,3,55000,165000,2025-09-14,Credit Card,Delivered,Navi Mumbai
+ORD0016,CUST1179,Headphones,Electronics,2,2499,4998,2025-02-11,UPI,Delivered,Nagpur
+ORD0017,CUST1171,Skin Cream,Beauty,5,749,3745,2025-05-23,Net Banking,Delivered,Navi Mumbai
+ORD0018,CUST1170,Laptop,Electronics,4,55000,220000,2025-03-07,Net Banking,Delivered,Ahilyanagar
+ORD0019,CUST1286,Perfume,Beauty,4,1299,5196,2025-02-13,Debit Card,Delivered,Navi Mumbai
+ORD0020,CUST1121,Skin Cream,Beauty,1,749,749,2025-10-10,Cash on Delivery,Delivered,Nashik
+ORD0021,CUST1165,Smartwatch,Electronics,3,3999,11997,2025-05-17,UPI,Delivered,Thane
+ORD0022,CUST1113,Shampoo,Beauty,1,599,599,2025-06-29,UPI,Delivered,Navi Mumbai
+ORD0023,CUST1081,T-Shirt,Clothing,5,699,3495,2025-04-23,Debit Card,Shipped,Mumbai
+ORD0024,CUST1225,Jacket,Clothing,5,2499,12495,2025-08-12,UPI,Delivered,Mumbai
+ORD0025,CUST1184,Cookware Set,Home & Kitchen,4,2499,9996,2025-07-22,Debit Card,Delivered,Aurangabad
+ORD0026,CUST1240,Shoes,Clothing,2,1999,3998,2025-07-17,UPI,Delivered,Aurangabad
+ORD0027,CUST1147,Electric Kettle,Home & Kitchen,4,1799,7196,2025-09-09,Cash on Delivery,Shipped,Nagpur
+ORD0028,CUST1129,Perfume,Beauty,2,1299,2598,2025-12-26,Debit Card,Delivered,Kolhapur
+ORD0029,CUST1263,Headphones,Electronics,2,2499,4998,2025-04-09,Cash on Delivery,Delivered,Kolhapur
+ORD0030,CUST1254,T-Shirt,Clothing,2,699,1398,2025-10-31,Cash on Delivery,Delivered,Navi Mumbai
+ORD0031,CUST1208,Jacket,Clothing,3,2499,7497,2025-10-31,Debit Card,Cancelled,Aurangabad
+ORD0032,CUST1113,Novel,Books,4,499,1996,2025-03-16,Cash on Delivery,Cancelled,Nagpur
+ORD0033,CUST1153,Dinner Set,Home & Kitchen,1,1299,1299,2025-04-09,Net Banking,Delivered,Mumbai
+ORD0034,CUST1161,Jacket,Clothing,5,2499,12495,2025-06-18,Cash on Delivery,Delivered,Ahilyanagar
+ORD0035,CUST1033,Smartwatch,Electronics,3,3999,11997,2025-05-08,Cash on Delivery,Delivered,Aurangabad
+ORD0036,CUST1264,Laptop,Electronics,5,55000,275000,2025-02-20,Debit Card,Delivered,Ahilyanagar
+ORD0037,CUST1147,Shoes,Clothing,1,1999,1999,2025-11-13,Cash on Delivery,Delivered,Pune
+ORD0038,CUST1046,Smartwatch,CLOTHING,4,3999,15996,2025-06-07,Net Banking,Cancelled,Kolhapur
+ORD0039,CUST1181,Face Wash,Beauty,1,399,399,2025-10-29,Debit Card,Returned,Nagpur
+ORD0040,CUST1128,Smartphone,Electronics,1,18999,18999,2025-09-13,Credit Card,Delivered,Aurangabad
+ORD0041,CUST1151,Dinner Set,Home & Kitchen,2,1299,2598,2025-10-15,Credit Card,Delivered,Satara
+ORD0042,CUST1246,Face Wash,Beauty,1,399,399,2025-10-26,Net Banking,Delivered,Satara
+ORD0043,CUST1036,Data Science Book,Books,5,899,4495,2025-11-12,Net Banking,Delivered,Thane
+ORD0044,CUST1092,Dinner Set,Home & Kitchen,4,1299,5196,2025-05-23,Credit Card,Delivered,Navi Mumbai
+ORD0045,CUST1063,Electric Kettle,Home & Kitchen,1,1799,1799,2025-07-05,Net Banking,Processing,Satara
+ORD0046,CUST1271,Smartwatch,Electronics,2,3999,7998,2025-11-22,Debit Card,Delivered,Pune
+ORD0047,CUST1005,Novel,Books,4,499,1996,2025-04-18,Cash on Delivery,Cancelled,Nagpur
+ORD0048,CUST1269,Jacket,Clothing,4,2499,9996,2025-05-24,Credit Card,Delivered,Nashik
+ORD0049,CUST1058,Business Book,Books,3,699,2097,2025-04-02,Credit Card,Delivered,Ahilyanagar
+ORD0050,CUST1058,Headphones,Electronics,1,2499,2499,2025-05-09,Credit Card,Delivered,Mumbai
+ORD0051,CUST1272,Laptop,Electronics,1,55000,55000,2025-08-25,Net Banking,Processing,Ahilyanagar
+ORD0052,CUST1154,Electric Kettle,Home & Kitchen,3,1799,5397,2025-03-17,Debit Card,Processing,Kolhapur
+ORD0053,CUST1094,Shoes,Clothing,5,1999,9995,2025-02-16,Cash on Delivery,Delivered,Satara
+ORD0054,CUST1254,Data Science Book,Books,4,899,3596,2025-10-16,Net Banking,Delivered,Satara
+ORD0055,CUST1223,Perfume,Beauty,2,1299,2598,2025-06-29,Credit Card,Shipped,Satara
+ORD0056,CUST1016,Shoes,Clothing,5,1999,9995,2025-01-04,Credit Card,Delivered,Nagpur
+ORD0057,CUST1179,Cookware Set,Home & Kitchen,3,2499,7497,2025-02-02,Debit Card,Returned,Nashik
+ORD0058,CUST1044,Novel,Books,2,499,998,2025-02-12,Net Banking,Delivered,Mumbai
+ORD0059,CUST1090,Laptop,Electronics,3,55000,165000,not-a-date,Net Banking,Cancelled,Satara
+ORD0060,CUST1114,Jacket,Clothing,1,2499,2499,2025-07-15,Net Banking,Returned,Thane
+ORD0061,CUST1164,Data Science Book,Books,5,899,4495,2025-09-06,Credit Card,Delivered,Thane
+ORD0062,CUST1096,Data Science Book,Books,3,899,2697,2025-02-05,Net Banking,Delivered,Navi Mumbai
+ORD0063,CUST1286,Data Science Book,Books,3,899,2697,2025-12-27,UPI,Delivered,Nagpur
+ORD0064,CUST1019,Python Book,Books,5,799,3995,2025-07-06,UPI,Delivered,Kolhapur
+ORD0065,CUST1223,Face Wash,Beauty,4,399,1596,2025-07-25,Cash on Delivery,Delivered,Ahilyanagar
+ORD0066,CUST1151,Smartwatch,Electronics,1,3999,3999,2025-02-22,UPI,Delivered,Ahilyanagar
+ORD0067,CUST1163,Jacket,Clothing,2,2499,4998,2025-05-13,Net Banking,Delivered,Mumbai
+ORD0068,CUST1230,Face Wash,Beauty,2,399,798,2025-09-10,Net Banking,Delivered,Kolhapur
+ORD0069,CUST1029,Python Book,Books,2,799,1598,2025-01-05,Net Banking,Delivered,Thane
+ORD0070,,T-Shirt,Clothing,4,699,2796,2025-05-25,Net Banking,Processing,Aurangabad
+ORD0071,CUST1182,Electric Kettle,Home & Kitchen,5,1799,8995,2025-12-30,Debit Card,Delivered,Nashik
+ORD0072,CUST1242,Headphones,Electronics,5,2499,12495,2025-05-21,Cash on Delivery,Delivered,Nagpur
+ORD0073,CUST1190,Smartphone,Electronics,1,18999,18999,2025-01-01,UPI,Delivered,Pune
+ORD0074,CUST1058,Smartphone,Electronics,5,18999,94995,2025-05-14,Cash on Delivery,Returned,Ahilyanagar
+ORD0075,CUST1229,Smartphone,Electronics,3,18999,56997,2025-09-09,Cash on Delivery,Delivered,Nagpur
+ORD0076,CUST1014,Headphones,Electronics,1,2499,2499,2025-11-01,UPI,Shipped,Aurangabad
+ORD0077,CUST1224,Jacket,Clothing,1,2499,2499,2025-01-12,Cash on Delivery,Delivered,Ahilyanagar
+ORD0078,CUST1136,Smartwatch,Electronics,4,3999,15996,2025-03-31,Credit Card,Delivered,Ahilyanagar
+ORD0079,CUST1201,Perfume,Beauty,3,1299,3897,2025-05-25,UPI,Delivered,Nashik
+ORD0080,CUST1197,Python Book,Books,3,799,2397,2025-09-13,UPI,Delivered,Thane
+ORD0081,CUST1119,Skin Cream,Beauty,5,749,3745,2025-01-05,UPI,Processing,Mumbai
+ORD0082,CUST1282,Face Wash,Beauty,3,399,1197,2025-12-07,UPI,Returned,Pune
+ORD0083,CUST1006,Python Book,Books,1,799,799,2025-04-09,Cash on Delivery,Processing,Ahilyanagar
+ORD0084,CUST1165,Face Wash,Beauty,5,399,1995,2025-02-22,Credit Card,Cancelled,Pune
+ORD0085,CUST1173,Smartphone,Electronics,1,18999,18999,2025-02-20,Net Banking, SHIPPED ,Pune
+ORD0086,CUST1095,Dinner Set,Home & Kitchen,2,1299,2598,2025-12-14,Credit Card,Delivered,Aurangabad
+ORD0087,CUST1054,Business Book,Books,2,699,1398,2025-09-25,Cash on Delivery,Delivered,Kolhapur
+ORD0088,CUST1066,Electric Kettle,Home & Kitchen,5,1799,8995,2025-12-07,Debit Card,Delivered,Aurangabad
+ORD0089,CUST1286,Cookware Set,Home & Kitchen,2,2499,4998,2025-04-08,Debit Card,Delivered,Mumbai
+ORD0090,CUST1030,Jeans,Clothing,1,1499,1499,2025-12-01,Credit Card,Cancelled,Ahilyanagar
+ORD0091,CUST1273,Python Book,Books,1,799,799,2025-11-26,Cash on Delivery,Delivered,Ahilyanagar
+ORD0092,CUST1126,Face Wash,Beauty,2,399,798,2025-07-24,Debit Card,Delivered,Nashik
+ORD0093,CUST1184,Electric Kettle,Home & Kitchen,3,1799,5397,2025-01-08,UPI,Cancelled,Nashik
+ORD0094,CUST1122,Shoes,Clothing,2,1999,3998,2025-03-02,Debit Card,Delivered,Ahilyanagar
+ORD0095,CUST1001,Jeans,Clothing,5,1499,7495,2025-01-22,Net Banking,Delivered,Satara
+ORD0096,CUST1073,Face Wash,Beauty,2,399,798,2025-10-28,Credit Card,Processing,Kolhapur
+ORD0097,CUST1048,Dinner Set,Home & Kitchen,3,1299,3897,2025-11-15,Net Banking,Delivered,Nagpur
+ORD0098,CUST1180,Data Science Book,Books,3,899,2697,2025-09-10,Credit Card,Processing,Thane
+ORD0099,CUST1007,Python Book,Books,3,799,2397,2025-11-08,Debit Card,Cancelled,Mumbai
+ORD0100,CUST1192,Jacket,Clothing,3,2499,7497,2025-01-15,UPI,Processing,Satara
+ORD0101,CUST1300,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-05-06,UPI,Cancelled,Nagpur
+ORD0102,CUST1109,Jeans,Clothing,3,1499,4497,2025-08-21,Credit Card,Delivered,Aurangabad
+ORD0103,CUST1083,Dinner Set,Home & Kitchen,1,1299,1299,2025-08-24,Credit Card,Delivered,Aurangabad
+ORD0104,CUST1229,Perfume,Beauty,2,1299,2598,2025-11-11,UPI,Delivered,Aurangabad
+ORD0105,CUST1095,Laptop,Electronics,4,55000,220000,2025-12-16,UPI,Delivered,Nashik
+ORD0106,CUST1006,Smartphone,Electronics,4,18999,75996,2025-08-11,Credit Card,Delivered,Nagpur
+ORD0107,CUST1062,Laptop,Electronics,1,55000,55000,2025-04-04,UPI,Shipped,Thane
+ORD0108,CUST1118,T-Shirt,Clothing,4,699,2796,2025-05-13,Cash on Delivery,Delivered,Pune
+ORD0109,CUST1142,Novel,Books,1,499,499,2025-03-31,Net Banking,Delivered,Nagpur
+ORD0110,CUST1010,Jacket,Clothing,1,2499,2499,2025-06-27,Net Banking,Delivered,Mumbai
+ORD0111,CUST1101,Jeans,Clothing,4,1499,5996,2025-11-17,UPI,Processing,Thane
+ORD0112,CUST1236,Electric Kettle,Home & Kitchen,1,1799,1799,2025-03-10,Credit Card,Delivered,Thane
+ORD0113,CUST1001,Shampoo,Beauty,4,599,2396,2025-02-04,Cash on Delivery,Cancelled,Thane
+ORD0114,CUST1291,Data Science Book,Books,4,899,3596,2025-10-13,Net Banking,Delivered,Nashik
+ORD0115,CUST1237,Cookware Set,Home & Kitchen,4,2499,9996,2025-03-30,Credit Card,Delivered,Thane
+ORD0116,CUST1023,Shoes,Clothing,3,1999,5997,2025-05-05,UPI,Delivered,Pune
+ORD0117,CUST1104,Jeans,Clothing,5,1499,7495,2025-04-14,Debit Card,Delivered,Aurangabad
+ORD0118,CUST1015,Skin Cream,Beauty,3,749,2247,2025-02-11,Net Banking,Delivered,Navi Mumbai
+ORD0119,CUST1289,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-04-07,Cash on Delivery,Delivered,Satara
+ORD0120,CUST1294,Jeans,Clothing,1,1499,1499,2025-04-28,Net Banking,Delivered,Nagpur
+ORD0121,CUST1261,Shoes,Clothing,5,1999,9995,2025-05-16,Net Banking,Delivered,Mumbai
+ORD0122,CUST1282,Headphones,Electronics,3,2499,7497,2025-10-19,Debit Card,Delivered,Nagpur
+ORD0123,CUST1218,Laptop,Electronics,2,55000,110000,2025-10-29,Net Banking,Delivered,Mumbai
+ORD0124,CUST1133,Electric Kettle,Home & Kitchen,4,1799,7196,2025-06-20,Net Banking,Shipped,Satara
+ORD0125,CUST1029,Business Book,Books,2,699,1398,2025-02-20,UPI,Returned,Navi Mumbai
+ORD0126,CUST1110,Smartphone,Electronics,5,18999,94995,2025-12-12,Cash on Delivery,Delivered,Kolhapur
+ORD0127,CUST1137,Jeans,Clothing,3,1499,4497,2025-05-29,Credit Card,Processing,Ahilyanagar
+ORD0128,CUST1090,Electric Kettle,Home & Kitchen,4,1799,7196,2025-01-25,Debit Card,Returned,Navi Mumbai
+ORD0129,CUST1128,Jeans,electronics,3,1499,4497,2025-01-17,Debit Card,Delivered,Nashik
+ORD0130,CUST1161,Smartphone,Electronics,4,18999,75996,2025-07-17,UPI,Processing,Aurangabad
+ORD0131,CUST1084,Laptop,Electronics,5,55000,275000,2025-02-18,UPI,Delivered,Aurangabad
+ORD0132,CUST1049,Skin Cream,Beauty,5,749,3745,2025-12-26,UPI,Delivered,Navi Mumbai
+ORD0133,CUST1032,Shoes,Clothing,3,1999,5997,2025-11-14,Net Banking,Shipped,Thane
+ORD0134,CUST1194,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-06-24,Cash on Delivery,Delivered,Aurangabad
+ORD0135,CUST1055,Novel,Books,1,499,499,2025-09-21,Debit Card,Delivered,Satara
+ORD0136,CUST1055,Shampoo,Beauty,4,599,2396,2025-03-28,Cash on Delivery,Processing,Navi Mumbai
+ORD0137,CUST1255,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-09-04,Net Banking,Delivered,Kolhapur
+ORD0138,CUST1092,Business Book,Books,3,699,2097,2025-04-07,Credit Card,Processing,Thane
+ORD0139,CUST1182,Novel,Books,3,499,1497,2025-06-14,Net Banking,Delivered,Navi Mumbai
+ORD0140,CUST1161,Skin Cream,Beauty,2,749,1498,2025-09-20,Net Banking,Delivered,Nashik
+ORD0141,CUST1197,Dinner Set,Home & Kitchen,2,1299,2598,2025-01-02,Cash on Delivery,Delivered,Mumbai
+ORD0142,CUST1261,Jacket,Clothing,4,2499,9996,2025-01-20,Net Banking,Delivered,Kolhapur
+ORD0143,CUST1280,Shoes,Clothing,3,1999,5997,2025-12-08,UPI,Cancelled,Thane
+ORD0144,CUST1209,Skin Cream,Beauty,1,749,749,2025-04-25,UPI,Delivered,Kolhapur
+ORD0145,CUST1154,Laptop,Electronics,3,55000,165000,2025-01-04,Credit Card,CANCELLED,Mumbai
+ORD0146,CUST1042,Headphones,Electronics,2,2499,4998,2025-05-08,Cash on Delivery,Delivered,Mumbai
+ORD0147,CUST1087,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-03-17,Net Banking,Delivered,Ahilyanagar
+ORD0148,CUST1098,Headphones,Electronics,3,2499,7497,2025-06-17,Cash on Delivery,Shipped,Ahilyanagar
+ORD0149,CUST1122,Smartphone,Electronics,1,18999,18999,2025-07-09,Credit Card,Delivered,Pune
+ORD0150,CUST1029,Smartwatch,Electronics,3,3999,11997,2025-10-09,Net Banking,Processing,Nagpur
+ORD0151,CUST1098,Electric Kettle,Home & Kitchen,3,1799,5397,2025-11-06,Net Banking,CANCELLED,Satara
+ORD0152,CUST1244,Smartwatch,Electronics,3,3999,11997,2025-08-15,Debit Card,Cancelled,Mumbai
+ORD0153,CUST1201,Cookware Set,Home & Kitchen,5,2499,12495,2025-03-14,UPI,Delivered,Thane
+ORD0154,CUST1229,Jacket,Clothing,3,2499,7497,2025-05-11,Cash on Delivery,Shipped,Aurangabad
+ORD0155,CUST1017,Electric Kettle,Home & Kitchen,5,1799,8995,2025-02-13,Credit Card,Shipped,Pune
+ORD0156,CUST1149,Laptop,Electronics,3,55000,165000,2025-09-21,UPI,Shipped,Aurangabad
+ORD0157,CUST1268,Dinner Set,Home & Kitchen,1,1299,1299,2025-03-30,Debit Card,Returned,Satara
+ORD0158,CUST1086,Laptop,Electronics,1,55000,55000,2025-10-09,Credit Card,Delivered,Ahilyanagar
+ORD0159,CUST1215,Business Book,Books,2,699,1398,2025-11-11,Net Banking,Delivered,Nagpur
+ORD0160,CUST1273,Shampoo,Beauty,3,599,1797,2025-04-13,Debit Card,Delivered,Mumbai
+ORD0161,CUST1039,Skin Cream,Beauty,2,749,1498,2025-07-02,UPI, SHIPPED ,Aurangabad
+ORD0162,CUST1108,Jeans,Clothing,1,1499,1499,2025-01-16,Credit Card,Delivered,Satara
+ORD0163,CUST1274,Skin Cream,Beauty,5,749,3745,2025-05-21,Debit Card,Delivered,Nagpur
+ORD0164,CUST1245,Smartphone,electronics,5,18999,94995,2025-11-14,Cash on Delivery,Shipped,Thane
+ORD0165,CUST1065,Smartphone,Electronics,2,18999,37998,2025-12-25,UPI,Delivered,Thane
+ORD0166,CUST1153,Smartwatch,Electronics,2,3999,7998,2025-10-20,UPI,Cancelled,Kolhapur
+ORD0167,CUST1187,Smartphone,Electronics,4,18999,75996,2025-05-20,Credit Card,Processing,Ahilyanagar
+ORD0168,CUST1226,Laptop,Electronics,3,55000,165000,2025-03-03,UPI,Processing,Nagpur
+ORD0169,CUST1243,Smartwatch,Electronics,5,3999,19995,2025-03-04,Net Banking,Delivered,Mumbai
+ORD0170,CUST1262,T-Shirt,Clothing,1,699,699,2025-09-16,Net Banking,delivered,Navi Mumbai
+ORD0171,CUST1061,Skin Cream,Beauty,4,749,2996,2025-08-29,Debit Card,Delivered,Mumbai
+ORD0172,CUST1227,T-Shirt,Clothing,3,699,2097,2025-06-09,Net Banking,Delivered,Kolhapur
+ORD0173,CUST1267,Cookware Set,Home & Kitchen,5,2499,12495,2025-04-08,UPI,Delivered,Kolhapur
+ORD0174,,Laptop,Electronics,4,55000,220000,2025-06-19,UPI,Delivered,Mumbai
+ORD0175,CUST1090,Jacket,Clothing,3,2499,7497,2025-06-25,Credit Card,Delivered,Ahilyanagar
+ORD0176,CUST1115,Shampoo,Beauty,5,599,2995,2025-08-12,Credit Card,Delivered,Thane
+ORD0177,CUST1289,Electric Kettle,Home & Kitchen,5,1799,8995,2025-08-25,Debit Card,Cancelled,Pune
+ORD0178,CUST1045,Smartwatch,Electronics,1,3999,3999,2025-09-26,UPI,Returned,Nagpur
+ORD0179,CUST1133,Cookware Set,Home & Kitchen,4,2499,9996,2025-01-07,Debit Card,Returned,Kolhapur
+ORD0180,CUST1158,Headphones,Electronics,2,2499,4998,2025-06-09,Credit Card,Processing,Navi Mumbai
+ORD0181,CUST1233,Smartphone,Electronics,3,18999,56997,2025-04-23,UPI,Delivered,Mumbai
+ORD0182,CUST1074,Dinner Set,Home & Kitchen,5,1299,6495,2025-06-12,UPI,Returned,Ahilyanagar
+ORD0183,CUST1242,Smartwatch,Electronics,4,3999,15996,2025-12-18,Cash on Delivery,Delivered,Pune
+ORD0184,CUST1022,Data Science Book, Electronics ,2,899,1798,2025-07-12,Credit Card,Delivered,Mumbai
+ORD0185,CUST1164,Perfume,Beauty,5,1299,6495,2025-07-23,,Delivered,Navi Mumbai
+ORD0186,CUST1026,Smartphone,Electronics,3,18999,56997,2025-02-27,Credit Card,Delivered,Nagpur
+ORD0187,CUST1271,T-Shirt,Clothing,1,699,699,2025-02-08,Net Banking,Shipped,Nagpur
+ORD0188,CUST1027,Business Book,Books,4,699,2796,2025-01-22,Debit Card,Returned,Thane
+ORD0189,CUST1262,T-Shirt,Clothing,5,699,3495,2025-03-25,Debit Card,Delivered,Nashik
+ORD0190,CUST1162,Jeans,Clothing,4,1499,5996,2025-01-15,Net Banking,Delivered,Pune
+ORD0191,CUST1208,Dinner Set,Home & Kitchen,2,1299,2598,2025-09-28,Debit Card,Returned,Kolhapur
+ORD0192,CUST1050,Face Wash,Beauty,3,399,1197,2025-06-23,Cash on Delivery,Delivered,Ahilyanagar
+ORD0193,CUST1015,Shampoo,Beauty,3,599,1797,2025-02-15,UPI,Delivered,Navi Mumbai
+ORD0194,CUST1009,Smartwatch,Electronics,4,3999,15996,2025-08-16,UPI,Delivered,Aurangabad
+ORD0195,,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-12-10,Debit Card,Returned,Pune
+ORD0196,CUST1166,Laptop,Electronics,2,55000,110000,2025-04-05,Debit Card,Shipped,Pune
+ORD0197,CUST1179,Face Wash,Beauty,-1,399,-399,2025-08-02,UPI,Delivered,Kolhapur
+ORD0198,CUST1161,Electric Kettle,Home & Kitchen,4,1799,7196,2025-05-28,Credit Card,Processing,Mumbai
+ORD0199,CUST1233,Jeans,Clothing,1,1499,1499,2025-10-16,Net Banking,Delivered,Nagpur
+ORD0200,CUST1090,Jacket,Clothing,2,2499,4998,2025-06-15,Credit Card,Processing,Mumbai
+ORD0201,CUST1123,Smartwatch,Electronics,1,3999,3999,2025-12-26,UPI,Returned,Navi Mumbai
+ORD0202,CUST1264,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-07-23,Credit Card,Shipped,Nagpur
+ORD0203,CUST1208,Jacket,Clothing,3,2499,7497,2025-03-25,Cash on Delivery,Delivered,Aurangabad
+ORD0204,CUST1014,Jacket,Clothing,1,2499,2499,2025-07-07,Debit Card,Processing,Navi Mumbai
+ORD0205,CUST1122,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-08-31,Debit Card,Returned,Nagpur
+ORD0206,CUST1288,Data Science Book,Books,5,899,4495,2025-07-02,Debit Card,Delivered,Aurangabad
+ORD0207,CUST1059,Cookware Set,Home & Kitchen,5,2499,12495,2025-12-18,Debit Card,Delivered,Nashik
+ORD0208,CUST1213,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-11-28,Credit Card,Processing,Nagpur
+ORD0209,CUST1152,Dinner Set,Home & Kitchen,4,0,0,2025-01-20,Credit Card,Cancelled,Kolhapur
+ORD0210,CUST1066,T-Shirt,Clothing,2,699,1398,2025-08-16,Credit Card,Processing,Navi Mumbai
+ORD0211,CUST1125,Headphones,Electronics,2,2499,4998,2025-09-03,Cash on Delivery,Delivered,Mumbai
+ORD0212,CUST1282,Electric Kettle,Home & Kitchen,1,1799,1799,2025-12-21,Cash on Delivery,Cancelled,Navi Mumbai
+ORD0213,CUST1041,Cookware Set,Home & Kitchen,2,2499,4998,2025-10-20,Cash on Delivery,Delivered,Thane
+ORD0214,CUST1145,Dinner Set,Home & Kitchen,2,1299,2598,2025-08-19,Debit Card,Delivered,Mumbai
+ORD0215,CUST1287,Face Wash,Beauty,1,399,399,2025-06-13,Debit Card,Cancelled,Aurangabad
+ORD0216,CUST1257,Laptop,Electronics,5,55000,275000,2025-09-23,Net Banking,Delivered,Pune
+ORD0217,CUST1121,Laptop,Electronics,4,55000,220000,2025-10-11,Debit Card,Processing,Ahilyanagar
+ORD0218,CUST1044,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-04-30,Cash on Delivery,Cancelled,Aurangabad
+ORD0219,CUST1130,Smartphone,Electronics,4,18999,75996,2025-11-30,UPI,Delivered,Nagpur
+ORD0220,CUST1245,Smartphone,Electronics,3,18999,56997,2025-07-17,Debit Card,Delivered,Pune
+ORD0221,,Dinner Set,Home & Kitchen,2,1299,2598,2025-10-03,Credit Card,Returned,Mumbai
+ORD0222,CUST1223,T-Shirt,Clothing,1,699,699,2025-02-08,Debit Card,Delivered,Aurangabad
+ORD0223,CUST1234,Smartwatch,Electronics,5,3999,19995,2025-11-04,Cash on Delivery,Shipped,Mumbai
+ORD0224,CUST1005,Headphones,Electronics,5,2499,12495,2025-12-18,Credit Card,Shipped,Navi Mumbai
+ORD0225,CUST1026,Shampoo,Beauty,2,599,1198,2025-05-25,UPI,Delivered,
+ORD0226,CUST1147,Novel,Books,1,499,499,2025-01-01,Net Banking,Shipped,Kolhapur
+ORD0227,CUST1063,Smartwatch,Electronics,2,3999,7998,2025-07-11,UPI,Cancelled,Kolhapur
+ORD0228,CUST1159,Face Wash,Beauty,5,399,1995,2025-03-18,UPI,Delivered,Mumbai
+ORD0229,CUST1019,Jeans,Clothing,4,1499,5996,2025-04-12,Credit Card,Processing,Kolhapur
+ORD0230,CUST1089,T-Shirt,Clothing,3,699,2097,2025-05-09,Net Banking,Delivered,Satara
+ORD0231,CUST1093,T-Shirt,Clothing,3,699,2097,2025-11-12,UPI,Delivered,Pune
+ORD0232,CUST1110,Jeans,Clothing,2,1499,2998,2025-09-24,Credit Card,Processing,Kolhapur
+ORD0233,CUST1221,Jeans,Clothing,2,1499,2998,2025-04-27,Credit Card,Delivered,Ahilyanagar
+ORD0234,CUST1271,T-Shirt,Clothing,4,699,2796,2025-08-16,Debit Card,Processing,Aurangabad
+ORD0235,CUST1107,Novel,Books,3,499,1497,2025-01-21,Net Banking,Cancelled,Kolhapur
+ORD0236,CUST1141,Electric Kettle,Home & Kitchen,4,1799,7196,2025-10-04,Debit Card,Delivered,Nagpur
+ORD0237,CUST1239,Smartwatch,Electronics,3,3999,11997,2025-06-06,Cash on Delivery,Delivered,Satara
+ORD0238,CUST1132,Cookware Set,Home & Kitchen,2,2499,4998,2025-03-18,Credit Card,Delivered,Navi Mumbai
+ORD0239,CUST1071,Cookware Set,Home & Kitchen,5,2499,12495,2025-06-08,UPI,Delivered,Satara
+ORD0240,CUST1172,Perfume,Beauty,4,1299,5196,2025-09-20,Net Banking,Shipped,Navi Mumbai
+ORD0241,CUST1009,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-01-26,Credit Card,Delivered,Kolhapur
+ORD0242,CUST1293,Novel,Books,1,499,499,2025-06-03,Cash on Delivery,Delivered,Nashik
+ORD0243,CUST1146,Skin Cream,Beauty,2,749,1498,2025-12-11,Debit Card,Shipped,Pune
+ORD0244,CUST1226,T-Shirt,Clothing,1,699,699,2025-04-18,UPI,Delivered,Pune
+ORD0245,CUST1011,Smartphone,Electronics,3,18999,56997,2025-06-09,Credit Card,Delivered,Kolhapur
+ORD0246,CUST1085,Jeans,Clothing,3,1499,4497,2025-09-20,Credit Card,Delivered,Aurangabad
+ORD0247,CUST1188,T-Shirt,Clothing,1,699,699,2025-10-07,Debit Card,Shipped,Aurangabad
+ORD0248,CUST1232,Electric Kettle,Home & Kitchen,5,1799,8995,2025-02-05,Net Banking,Cancelled,Nashik
+ORD0249,CUST1196,T-Shirt,Clothing,3,699,2097,2025-03-11,Net Banking,Delivered,Mumbai
+ORD0250,CUST1149,Dinner Set,Home & Kitchen,3,1299,3897,2025-06-09,Credit Card,Shipped,Satara
+ORD0251,CUST1172,Jeans,Clothing,2,1499,2998,2025-08-03,Credit Card,Delivered,Nashik
+ORD0252,CUST1150,Python Book,Books,4,799,3196,2025-09-21,Cash on Delivery,Delivered,Ahilyanagar
+ORD0253,CUST1208,Headphones,Electronics,1,2499,2499,2025-11-07,Credit Card,Delivered,Kolhapur
+ORD0254,CUST1003,Novel,Books,1,499,499,2025-05-16,Net Banking,Delivered,Nashik
+ORD0255,CUST1248,Smartphone,Electronics,4,18999,75996,2025-12-26,Cash on Delivery,Delivered,Ahilyanagar
+ORD0256,CUST1288,Laptop,Electronics,2,55000,110000,2025-08-19,UPI,Shipped,Aurangabad
+ORD0257,CUST1114,Smartphone,Electronics,4,18999,75996,2025-05-31,Net Banking,Delivered,Ahilyanagar
+ORD0258,,T-Shirt,Clothing,1,699,699,2025-11-27,Credit Card,Shipped,Navi Mumbai
+ORD0259,CUST1101,Laptop,Electronics,3,55000,165000,2025-05-23,Cash on Delivery,Delivered,Pune
+ORD0260,CUST1158,Laptop,Electronics,5,55000,275000,2025-10-18,Credit Card,Cancelled,Aurangabad
+ORD0261,CUST1073,Headphones,Electronics,4,2499,9996,2025-01-14,Net Banking,Delivered,Mumbai
+ORD0262,CUST1266,Laptop,Electronics,4,55000,220000,2025-09-13,UPI,Delivered,Aurangabad
+ORD0263,CUST1238,Jacket,Clothing,1,2499,2499,2025-04-20,Net Banking,Delivered,Nashik
+ORD0264,CUST1025,T-Shirt,Clothing,5,699,3495,2025-04-27,Cash on Delivery,Delivered,Nagpur
+ORD0265,CUST1254,Shoes,Clothing,5,1999,9995,2025-02-12,Credit Card,Shipped,Nashik
+ORD0266,CUST1130,T-Shirt,Clothing,3,699,2097,2025-09-23,Debit Card,Processing,Thane
+ORD0267,CUST1149,Headphones,Electronics,3,2499,7497,2025-04-09,UPI,Processing,Nashik
+ORD0268,CUST1260,Smartwatch,Electronics,4,3999,15996,2025-04-07,Cash on Delivery,Returned,Pune
+ORD0269,CUST1124,Smartwatch,Electronics,4,0,0,2025-08-09,Credit Card,Delivered,Nagpur
+ORD0270,CUST1155,Shoes,Clothing,5,1999,9995,2025-01-07,Cash on Delivery,Delivered,Navi Mumbai
+ORD0271,CUST1062,Python Book,Books,5,799,3995,2025-07-02,Debit Card,Delivered,Aurangabad
+ORD0272,CUST1013,Laptop,Electronics,2,55000,110000,2025-03-06,Net Banking,Processing,Ahilyanagar
+ORD0273,CUST1164,Smartphone,Electronics,5,18999,94995,2025-06-09,UPI,Delivered,Ahilyanagar
+ORD0274,CUST1196,Skin Cream,Beauty,5,749,3745,2025-10-09,Credit Card,Delivered,Mumbai
+ORD0275,CUST1021,T-Shirt,Clothing,5,699,3495,2025-02-11,Credit Card,Cancelled,Kolhapur
+ORD0276,CUST1130,Smartwatch,Electronics,1,3999,3999,2025-05-09,Cash on Delivery,Delivered,Pune
+ORD0277,CUST1277,Shampoo,Beauty,4,599,2396,2025-08-20,Cash on Delivery,Shipped,Mumbai
+ORD0278,CUST1173,Jeans,Clothing,1,1499,1499,2025-03-20,Debit Card,Delivered,Pune
+ORD0279,CUST1087,Shoes,Clothing,5,1999,9995,2025-07-19,Debit Card,Shipped,Nashik
+ORD0280,CUST1148,Smartwatch,Electronics,1,3999,3999,2025-05-13,Net Banking,Delivered,Nagpur
+ORD0281,CUST1051,Jacket,Clothing,3,2499,7497,2025-01-28,Debit Card,Delivered,Ahilyanagar
+ORD0282,CUST1111,Dinner Set,Home & Kitchen,2,1299,2598,2025-02-07,Cash on Delivery,Cancelled,Thane
+ORD0283,CUST1292,Data Science Book,Books,1,899,899,2025-02-18,Cash on Delivery,Processing,Kolhapur
+ORD0284,CUST1149,Skin Cream,Beauty,2,749,1498,2025-09-23,Cash on Delivery,Delivered,Thane
+ORD0285,CUST1288,Smartphone,Electronics,5,18999,94995,2025-06-09,Cash on Delivery,Delivered,Satara
+ORD0286,CUST1153,Shoes,Clothing,2,1999,3998,2025-07-02,Debit Card,Delivered,Satara
+ORD0287,CUST1172,Cookware Set,Home & Kitchen,4,2499,9996,2025-08-01,Debit Card,Cancelled,Thane
+ORD0288,CUST1233,Shampoo,Beauty,1,599,599,2025-09-25,Credit Card,Shipped,Ahilyanagar
+ORD0289,CUST1203,Shampoo,Beauty,4,599,2396,2025-08-12,Debit Card,Delivered,Mumbai
+ORD0290,CUST1050,Smartphone,Electronics,4,18999,75996,2025-10-10,Debit Card,Delivered,Aurangabad
+ORD0291,CUST1003,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-07-03,Debit Card,Delivered,Navi Mumbai
+ORD0292,CUST1136,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-04-21,Credit Card,Delivered,Thane
+ORD0293,CUST1224,Smartphone,Electronics,3,18999,56997,2025-04-14,Credit Card,Shipped,Kolhapur
+ORD0294,CUST1112,Dinner Set,Home & Kitchen,3,1299,3897,2025-03-07,Net Banking,Delivered,Nagpur
+ORD0295,CUST1012,Laptop,Electronics,2,55000,110000,2025-02-23,UPI,Delivered,Kolhapur
+ORD0296,CUST1243,Face Wash,Beauty,4,399,1596,2025-03-16,Debit Card,Returned,Nagpur
+ORD0297,CUST1227,Shoes,Clothing,4,1999,7996,2025-01-24,Credit Card,Delivered,Ahilyanagar
+ORD0298,CUST1038,Headphones,Electronics,5,2499,12495,2025-07-21,Cash on Delivery,Delivered,Nagpur
+ORD0299,CUST1014,Jacket,Clothing,4,2499,9996,2025-08-09,Debit Card,Delivered,Satara
+ORD0300,,Dinner Set,Home & Kitchen,2,1299,2598,2025-06-07,Debit Card,Delivered,Nashik
+ORD0301,CUST1109,Jeans,Clothing,3,1499,4497,2025-06-01,Cash on Delivery,Processing,Aurangabad
+ORD0302,CUST1228,Smartwatch,Electronics,3,3999,11997,2025-06-22,UPI,Delivered,Mumbai
+ORD0303,CUST1118,T-Shirt,Clothing,3,699,2097,2025-09-08,Net Banking,Delivered,Aurangabad
+ORD0304,CUST1047,Dinner Set,Home & Kitchen,3,1299,3897,2025-07-17,Cash on Delivery,Delivered,Kolhapur
+ORD0305,CUST1138,Face Wash,Beauty,1,399,399,2025-03-02,Credit Card,Delivered,Pune
+ORD0306,CUST1051,Cookware Set,Home & Kitchen,5,2499,12495,2025-07-17,Net Banking,Delivered,Nashik
+ORD0307,CUST1049,Jacket,Clothing,5,2499,12495,2025-12-15,Net Banking,Delivered,Ahilyanagar
+ORD0308,CUST1231,Cookware Set,Home & Kitchen,4,2499,9996,2025-05-06,Credit Card,Cancelled,Thane
+ORD0309,CUST1174,Python Book,Books,1,799,799,2025-07-01,Cash on Delivery,Delivered,Kolhapur
+ORD0310,CUST1213,Novel,Books,1,499,499,2025-02-05,Cash on Delivery,Delivered,Aurangabad
+ORD0311,CUST1120,Headphones,Electronics,4,2499,9996,2025-09-27,Credit Card,Delivered,Aurangabad
+ORD0312,CUST1044,T-Shirt,CLOTHING,5,699,3495,2025-03-11,UPI,Delivered,Thane
+ORD0313,CUST1021,Laptop,Electronics,2,55000,110000,2025-12-29,Cash on Delivery,Delivered,Navi Mumbai
+ORD0314,CUST1248,Headphones,Electronics,2,2499,4998,2025-06-09,Debit Card,Returned,Navi Mumbai
+ORD0315,CUST1165,Jeans,Clothing,4,1499,5996,2025-05-22,Credit Card,Returned,Ahilyanagar
+ORD0316,CUST1161,Cookware Set,Home & Kitchen,5,2499,12495,2025-11-01,Credit Card,Processing,Satara
+ORD0317,CUST1152,Laptop,Electronics,1,55000,55000,2025-03-22,Net Banking,Delivered,Satara
+ORD0318,CUST1098,Electric Kettle,Home & Kitchen,1,1799,1799,2025-01-17,Credit Card,Delivered,Ahilyanagar
+ORD0319,CUST1098,Laptop,Electronics,1,55000,55000,2025-03-07,Debit Card,Shipped,Aurangabad
+ORD0320,CUST1138,Headphones,Electronics,4,2499,9996,2025-02-28,Debit Card,Delivered,Pune
+ORD0321,CUST1154,Headphones,Electronics,5,2499,12495,2025-01-20,Cash on Delivery,delivered,Aurangabad
+ORD0322,CUST1214,Smartwatch,Electronics,5,3999,19995,2025-03-20,Cash on Delivery,Cancelled,Kolhapur
+ORD0323,CUST1248,Dinner Set,Home & Kitchen,2,1299,2598,2025-03-07,Debit Card,Cancelled,Pune
+ORD0324,CUST1089,Jacket,Clothing,4,2499,9996,2025-10-06,Debit Card,Delivered,Nashik
+ORD0325,CUST1008,Jacket,Clothing,4,2499,9996,2025-03-15,Cash on Delivery,Processing,Nagpur
+ORD0326,CUST1238,Smartwatch,Electronics,1,3999,3999,2025-02-16,Credit Card,Delivered,Nagpur
+ORD0327,CUST1259,Cookware Set,Home & Kitchen,3,2499,7497,2025-12-31,Debit Card,Delivered,Thane
+ORD0328,CUST1101,Shoes,Clothing,1,1999,1999,2025-01-08,Cash on Delivery,delivered,Ahilyanagar
+ORD0329,CUST1137,Jeans,Clothing,3,1499,4497,2025-02-01,Cash on Delivery,Processing,Navi Mumbai
+ORD0330,CUST1158,Skin Cream,Beauty,5,749,3745,2025-01-21,Net Banking,Delivered,Aurangabad
+ORD0331,CUST1025,Skin Cream,Beauty,3,749,2247,2025-11-21,Debit Card,Delivered,Kolhapur
+ORD0332,CUST1189,Python Book,Books,5,799,3995,2025-08-15,Cash on Delivery,Cancelled,Nagpur
+ORD0333,CUST1213,Shampoo,Beauty,3,599,1797,2025-03-01,Credit Card,Processing,Satara
+ORD0334,CUST1163,Smartwatch,Electronics,2,3999,7998,2025-07-09,Cash on Delivery,Cancelled,Nashik
+ORD0335,CUST1176,Jeans,Clothing,3,1499,4497,2025-10-06,UPI,Cancelled,Nashik
+ORD0336,CUST1248,Smartphone,Electronics,2,18999,37998,2025-03-07,Cash on Delivery,Shipped,Aurangabad
+ORD0337,CUST1128,Perfume,Beauty,1,1299,1299,2025-09-04,Debit Card,Shipped,Kolhapur
+ORD0338,CUST1117,Headphones,Electronics,5,2499,12495,2025-08-15,Net Banking,Shipped,Nagpur
+ORD0339,CUST1252,Skin Cream,Beauty,1,749,749,2025-12-21,Net Banking,Cancelled,Nashik
+ORD0340,CUST1046,Skin Cream,Beauty,3,749,2247,2025-04-01,Cash on Delivery,Delivered,Nashik
+ORD0341,CUST1281,Jacket,Clothing,3,2499,7497,2025-03-25,Credit Card,Returned,Aurangabad
+ORD0342,CUST1201,Skin Cream,Beauty,3,749,2247,2025-10-02,Cash on Delivery,Delivered,Navi Mumbai
+ORD0343,CUST1121,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-05-04,Cash on Delivery,Shipped,Nagpur
+ORD0344,CUST1164,Laptop,Electronics,5,55000,275000,2025-11-13,UPI,Delivered,Pune
+ORD0345,CUST1227,T-Shirt,Clothing,3,699,2097,2025-11-05,UPI,Delivered,Kolhapur
+ORD0346,CUST1002,Smartwatch,Electronics,4,3999,15996,2025-09-21,UPI,Delivered,Aurangabad
+ORD0347,CUST1158,Skin Cream,Beauty,5,749,3745,2025-03-03,Cash on Delivery,Delivered,Mumbai
+ORD0348,CUST1276,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-10-31,Net Banking,Delivered,Pune
+ORD0349,CUST1035,Data Science Book,Books,5,899,4495,2025-11-20,UPI,Delivered,Pune
+ORD0350,CUST1174,Headphones,Electronics,4,2499,9996,2025-03-17,UPI,Delivered,Nagpur
+ORD0351,CUST1038,Shoes,Clothing,5,1999,9995,2025-11-03,Cash on Delivery,Processing,Nashik
+ORD0352,CUST1260,Headphones,Electronics,4,2499,9996,2025-01-28,Cash on Delivery,Delivered,Aurangabad
+ORD0353,CUST1257,Smartwatch,Electronics,2,3999,7998,2025-12-13,UPI,Delivered,Aurangabad
+ORD0354,CUST1093,Smartwatch,Electronics,3,3999,11997,2025-12-28,Net Banking,Delivered,Thane
+ORD0355,CUST1177,Shoes,Clothing,5,1999,9995,2025-12-06,Net Banking,Delivered,Pune
+ORD0356,CUST1090,Laptop,Electronics,3,55000,165000,2025-12-19,Net Banking,Delivered,Satara
+ORD0357,CUST1037,Laptop,Electronics,1,55000,55000,2025-09-22,UPI,Shipped,Thane
+ORD0358,CUST1192,Electric Kettle,Home & Kitchen,1,1799,1799,2025-02-08,Debit Card,Delivered,Pune
+ORD0359,CUST1109,Jacket, Electronics ,4,2499,9996,2025-03-13,Cash on Delivery,Shipped,Pune
+ORD0360,CUST1008,Business Book,Books,4,699,2796,2025-09-07,,Shipped,Navi Mumbai
+ORD0361,CUST1146,Electric Kettle,electronics,1,1799,1799,2025-06-24,Credit Card,Shipped,Pune
+ORD0362,CUST1239,Jeans,Clothing,5,1499,7495,2025-05-27,Cash on Delivery,Delivered,Pune
+ORD0363,CUST1041,Laptop,Electronics,3,55000,165000,2025-05-23,Credit Card,Shipped,Kolhapur
+ORD0364,CUST1210,Electric Kettle,Home & Kitchen,3,1799,5397,2025-09-23,Debit Card,Cancelled,Kolhapur
+ORD0365,CUST1117,Headphones,Electronics,4,2499,9996,2025-06-04,Credit Card,Delivered,Nashik
+ORD0366,CUST1268,Dinner Set,Home & Kitchen,2,1299,2598,2025-03-22,Debit Card,Delivered,Navi Mumbai
+ORD0367,CUST1062,Cookware Set,Home & Kitchen,5,2499,12495,2025-08-01,UPI,Delivered,Kolhapur
+ORD0368,CUST1107,Data Science Book,Books,4,899,3596,2025-10-04,Credit Card,Delivered,Navi Mumbai
+ORD0369,CUST1188,Cookware Set,Home & Kitchen,2,2499,4998,2025-01-30,Cash on Delivery,Processing,Nashik
+ORD0370,CUST1023,Shoes,Clothing,1,1999,1999,2025-03-04,Debit Card,Delivered,Satara
+ORD0371,CUST1290,Jeans,Clothing,4,1499,5996,2025-06-16,Cash on Delivery,Delivered,Nagpur
+ORD0372,CUST1148,Smartphone,electronics,1,18999,18999,2025-02-16,Debit Card,Delivered,Mumbai
+ORD0373,CUST1294,Electric Kettle,Home & Kitchen,3,1799,5397,2025-05-06,Net Banking,Delivered,Nagpur
+ORD0374,CUST1113,Cookware Set,Home & Kitchen,1,2499,2499,2025-01-31,Net Banking,Returned,Thane
+ORD0375,CUST1260,Skin Cream,Beauty,3,749,2247,2025-02-14,Credit Card,Delivered,Aurangabad
+ORD0376,CUST1262,Skin Cream,Beauty,2,749,1498,2025-02-20,Debit Card,Delivered,Ahilyanagar
+ORD0377,CUST1037,Smartphone,Electronics,2,18999,37998,2025-05-05,Credit Card,Delivered,Nashik
+ORD0378,CUST1285,Perfume,Beauty,2,1299,2598,2025-07-20,Net Banking,Shipped,Nagpur
+ORD0379,CUST1165,Smartwatch,Electronics,4,3999,15996,2025-03-10,UPI,Delivered,Mumbai
+ORD0380,CUST1042,Smartphone,Electronics,3,18999,56997,2025-12-09,Credit Card,Delivered,Nashik
+ORD0381,CUST1300,Smartphone,Electronics,4,18999,75996,2025-01-21,Debit Card,Delivered,Nashik
+ORD0382,CUST1139,Headphones,Electronics,5,2499,12495,2025-04-21,Cash on Delivery,Delivered,Pune
+ORD0383,CUST1250,Python Book,Books,1,799,799,2025-06-01,Debit Card,Delivered,Ahilyanagar
+ORD0384,CUST1164,Smartphone,Electronics,1,18999,18999,2025-04-11,Debit Card,Delivered,Ahilyanagar
+ORD0385,CUST1140,Cookware Set,Home & Kitchen,5,2499,12495,2025-02-16,Net Banking,Processing,Navi Mumbai
+ORD0386,CUST1012,Smartphone,Electronics,4,18999,75996,2025-02-15,UPI,Returned,Satara
+ORD0387,CUST1070,Perfume,Beauty,4,1299,5196,2025-12-18,Credit Card,Delivered,Pune
+ORD0388,CUST1192,Electric Kettle,Home & Kitchen,3,1799,5397,2025-07-22,UPI,Delivered,Pune
+ORD0389,CUST1092,Shampoo,Beauty,3,599,1797,2025-03-23,Debit Card,Shipped,Nagpur
+ORD0390,CUST1116,Business Book,Books,1,699,699,2025-11-24,Net Banking,Delivered,Pune
+ORD0391,CUST1294,Smartwatch,Electronics,3,3999,11997,2025-03-04,Debit Card,Delivered,Navi Mumbai
+ORD0392,CUST1171,Smartwatch,Electronics,5,3999,19995,2025-08-02,Debit Card,Shipped,Satara
+ORD0393,CUST1169,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-07-13,Debit Card,CANCELLED,Kolhapur
+ORD0394,CUST1282,Business Book,Books,3,699,2097,2025-09-21,UPI,Delivered,Navi Mumbai
+ORD0395,CUST1001,Smartwatch,Electronics,1,3999,3999,2025-02-06,Net Banking,Delivered,Thane
+ORD0396,CUST1257,Novel,Books,1,499,499,2025-05-07,Cash on Delivery,Shipped,Thane
+ORD0397,CUST1075,Jeans,Clothing,4,1499,5996,2025-12-24,Debit Card,Delivered,Mumbai
+ORD0398,CUST1016,Headphones,Electronics,3,2499,7497,2025-12-24,,Delivered,Navi Mumbai
+ORD0399,CUST1013,Perfume,Beauty,4,1299,5196,2025-11-18,Cash on Delivery,Cancelled,Nashik
+ORD0400,CUST1221,Python Book,Books,3,799,2397,2025-04-28,Net Banking,Cancelled,Pune
+ORD0401,CUST1053,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-01-21,Debit Card,Shipped,Aurangabad
+ORD0402,CUST1054,Headphones,Electronics,2,2499,4998,2025-01-10,Cash on Delivery,Shipped,Mumbai
+ORD0403,CUST1022,Smartwatch,Electronics,4,3999,15996,2025-02-22,Cash on Delivery,Delivered,Navi Mumbai
+ORD0404,CUST1248,Novel,Books,2,499,998,2025-12-04,Credit Card,Processing,Kolhapur
+ORD0405,CUST1154,Business Book,Books,1,699,699,2025-08-29,Credit Card,Delivered,Aurangabad
+ORD0406,CUST1157,Perfume,Beauty,2,1299,2598,2025-09-21,Cash on Delivery,Delivered,Pune
+ORD0407,CUST1100,Smartphone,Electronics,3,18999,56997,2025-06-11,Credit Card,Cancelled,Nashik
+ORD0408,CUST1186,Perfume,Beauty,4,1299,5196,2025-06-28,Credit Card,Delivered,Kolhapur
+ORD0409,CUST1013,Cookware Set,Home & Kitchen,5,2499,12495,2025-08-23,Net Banking,Returned,Pune
+ORD0410,CUST1211,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-01-21,Cash on Delivery,Returned,Pune
+ORD0411,CUST1146,Shoes,Clothing,4,1999,7996,2025-02-10,Debit Card,Delivered,Navi Mumbai
+ORD0412,CUST1031,Python Book,Books,5,799,3995,2025-04-10,Credit Card,Delivered,Kolhapur
+ORD0413,CUST1109,Shampoo,Beauty,1,599,599,2025-04-10,Net Banking,Delivered,Kolhapur
+ORD0414,CUST1003,Headphones,Electronics,4,2499,9996,2025-10-01,Cash on Delivery,Returned,Ahilyanagar
+ORD0415,CUST1021,Cookware Set,Home & Kitchen,1,2499,2499,2025-12-22,Cash on Delivery,Delivered,Kolhapur
+ORD0416,CUST1044,Python Book,Books,2,799,1598,2025-02-22,Net Banking,Shipped,Ahilyanagar
+ORD0417,CUST1138,Shampoo,Beauty,1,599,599,2025-12-22,Debit Card,Delivered,Aurangabad
+ORD0418,CUST1029,Cookware Set,Home & Kitchen,4,2499,9996,2025-01-24,Debit Card,Cancelled,Satara
+ORD0419,CUST1119,Jeans,Clothing,1,1499,1499,2025-12-06,Cash on Delivery,Delivered,Pune
+ORD0420,CUST1181,Cookware Set,Home & Kitchen,4,2499,9996,2025-10-10,Credit Card,Processing,
+ORD0421,CUST1033,Laptop,Electronics,5,55000,275000,2025-06-02,Credit Card,Delivered,Kolhapur
+ORD0422,CUST1228,Shoes,Clothing,3,1999,5997,2025-05-15,Debit Card,Delivered,Thane
+ORD0423,CUST1059,Data Science Book,Books,5,899,4495,2025-08-02,Cash on Delivery,Cancelled,Kolhapur
+ORD0424,CUST1079,Shampoo,Beauty,4,599,2396,2025-07-24,Cash on Delivery,Delivered,Satara
+ORD0425,CUST1133,Dinner Set,Home & Kitchen,1,1299,1299,2025-04-29,Cash on Delivery,Delivered,Aurangabad
+ORD0426,CUST1026,Jacket,Clothing,2,2499,4998,2025-07-18,UPI,Processing,Nashik
+ORD0427,CUST1049,Smartphone,Electronics,4,18999,75996,2025-12-17,Cash on Delivery,Delivered,Aurangabad
+ORD0428,CUST1242,Jacket,Clothing,1,2499,2499,2025-06-23,Credit Card,Delivered,Ahilyanagar
+ORD0429,CUST1054,T-Shirt,Clothing,3,699,2097,2025-09-05,UPI,Returned,Mumbai
+ORD0430,,Smartphone,Electronics,2,18999,37998,2025-10-04,Net Banking,Shipped,Aurangabad
+ORD0431,CUST1223,Python Book,Books,2,799,1598,2025-10-29,Debit Card,Delivered,Thane
+ORD0432,CUST1209,Headphones,Electronics,4,2499,9996,2025-06-10,Debit Card,Processing,Aurangabad
+ORD0433,CUST1048,Smartwatch,Electronics,3,3999,11997,2025-09-09,Debit Card,Returned,Kolhapur
+ORD0434,CUST1019,Smartphone,Electronics,1,18999,18999,2025-10-01,Credit Card,Returned,Nagpur
+ORD0435,CUST1273,Data Science Book,Books,3,899,2697,2025-05-05,Debit Card,Delivered,Mumbai
+ORD0436,CUST1008,Perfume,Beauty,5,1299,6495,2025-12-28,Cash on Delivery,Delivered,Pune
+ORD0437,CUST1088,T-Shirt,Clothing,3,699,2097,2025-03-25,Credit Card,Processing,Aurangabad
+ORD0438,CUST1101,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-02-05,Cash on Delivery,Returned,Satara
+ORD0439,CUST1055,Data Science Book,Books,2,899,1798,2025-09-09,Debit Card,Delivered,Kolhapur
+ORD0440,CUST1010,Shoes,Clothing,5,1999,9995,2025-06-22,Cash on Delivery,Delivered,Thane
+ORD0441,CUST1160,Shampoo,Beauty,3,599,1797,2025-05-09,UPI,Processing,Pune
+ORD0442,CUST1163,Dinner Set,Home & Kitchen,5,1299,6495,2025-04-04,Debit Card,Returned,Satara
+ORD0443,CUST1181,Jeans,Clothing,5,1499,7495,2025-04-26,Debit Card,Delivered,Pune
+ORD0444,CUST1116,Laptop,Electronics,2,55000,110000,2025-12-31,Credit Card,Processing,Kolhapur
+ORD0445,CUST1237,Laptop,Electronics,1,55000,55000,2025-10-05,UPI,Returned,Ahilyanagar
+ORD0446,CUST1099,Dinner Set,Home & Kitchen,3,1299,3897,2025-05-29,Cash on Delivery,Processing,Nashik
+ORD0447,CUST1133,Headphones,Electronics,2,2499,4998,2025-02-09,Net Banking,Processing,Navi Mumbai
+ORD0448,CUST1109,Jacket,Clothing,2,2499,4998,2025-04-26,Net Banking,Delivered,Nashik
+ORD0449,CUST1271,Cookware Set,CLOTHING,4,2499,9996,2025-11-20,Debit Card,Delivered,Nashik
+ORD0450,CUST1024,Headphones,Electronics,5,2499,12495,2025-06-13,Credit Card,Processing,Mumbai
+ORD0451,CUST1116,Skin Cream,Beauty,5,749,3745,2025-09-05,Net Banking,Delivered,Ahilyanagar
+ORD0452,CUST1188,Data Science Book,Books,5,899,4495,2025-09-06,Net Banking,Processing,Thane
+ORD0453,CUST1212,Laptop,Electronics,5,55000,275000,2025-11-13,Debit Card,Cancelled,Aurangabad
+ORD0454,CUST1239,Novel,Books,4,499,1996,2025-02-07,UPI,Cancelled,Navi Mumbai
+ORD0455,CUST1112,Cookware Set,Home & Kitchen,5,2499,12495,2025-01-25,Debit Card,Delivered,Kolhapur
+ORD0456,CUST1016,Jacket,Clothing,4,2499,9996,2025-02-08,Net Banking,Delivered,Thane
+ORD0457,CUST1032,Electric Kettle,Home & Kitchen,2,1799,3598,2025-07-21,Debit Card,Delivered,Kolhapur
+ORD0458,CUST1273,Smartwatch,Electronics,2,3999,7998,2025-08-02,Cash on Delivery,Returned,Kolhapur
+ORD0459,CUST1191,Smartphone,Electronics,1,18999,18999,2025-11-17,UPI,Delivered,
+ORD0460,CUST1271,Perfume,Beauty,2,1299,2598,2025-04-14,Debit Card,Processing,Navi Mumbai
+ORD0461,CUST1251,Smartphone,Electronics,1,18999,18999,2025-03-22,UPI,Delivered,Aurangabad
+ORD0462,CUST1063,Shoes,Clothing,5,1999,9995,2025-01-03,UPI,Processing,Navi Mumbai
+ORD0463,CUST1100,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-09-28,Cash on Delivery,Delivered,Nashik
+ORD0464,CUST1270,Business Book,Books,2,699,1398,2025-10-16,Credit Card,Delivered,Nagpur
+ORD0465,,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-06-17,Net Banking,Shipped,Aurangabad
+ORD0466,CUST1204,Smartwatch,Electronics,3,3999,11997,2025-05-27,Debit Card,Cancelled,Kolhapur
+ORD0467,CUST1002,Smartwatch,Electronics,4,3999,15996,2025-05-31,Debit Card,Delivered,Thane
+ORD0468,CUST1272,Smartwatch,Electronics,3,3999,11997,2025-04-24,Debit Card,Shipped,Nagpur
+ORD0469,CUST1012,Dinner Set,Home & Kitchen,1,1299,1299,2025-04-23,Net Banking,Delivered,Pune
+ORD0470,CUST1069,Face Wash,Beauty,1,399,399,2025-11-30,Debit Card,Delivered,Mumbai
+ORD0471,CUST1167,Jacket,Clothing,5,2499,12495,2025-02-16,Cash on Delivery,CANCELLED,Nagpur
+ORD0472,,Electric Kettle,Home & Kitchen,3,1799,5397,2025-05-08,Cash on Delivery,Delivered,Mumbai
+ORD0473,CUST1062,Face Wash,Beauty,1,399,399,2025-08-06,Net Banking,Returned,Mumbai
+ORD0474,CUST1169,Face Wash,Beauty,4,399,1596,2025-11-14,Net Banking,Delivered,Nagpur
+ORD0475,CUST1071,Jacket,Clothing,1,2499,2499,2025-07-23,Debit Card,Shipped,Mumbai
+ORD0476,CUST1280,Shoes,Clothing,2,1999,3998,2025-05-04,Credit Card,Shipped,Satara
+ORD0477,CUST1230,Electric Kettle,Home & Kitchen,3,1799,5397,2025-06-06,Cash on Delivery,Delivered,Aurangabad
+ORD0478,CUST1290,Electric Kettle,Home & Kitchen,4,1799,7196,2025-11-18,Debit Card,Delivered,Satara
+ORD0479,CUST1059,Shoes,Clothing,1,1999,1999,2025-04-10,Cash on Delivery,Delivered,Nagpur
+ORD0480,CUST1079,Shampoo,Beauty,1,599,599,2025-09-23,Debit Card,Processing,Ahilyanagar
+ORD0481,CUST1025,Laptop,Electronics,-1,55000,-55000,2025-04-08,Net Banking,Delivered,Pune
+ORD0482,CUST1164,Jacket,Clothing,1,2499,2499,2025-05-17,Debit Card,Returned,Nagpur
+ORD0483,CUST1262,Python Book,Books,2,799,1598,not-a-date,UPI,Delivered,Aurangabad
+ORD0484,CUST1127,Shoes,Clothing,3,1999,5997,2025-12-07,UPI,Delivered,Nagpur
+ORD0485,CUST1273,T-Shirt,Clothing,3,699,2097,2025-09-05,Debit Card,Shipped,Satara
+ORD0486,CUST1151,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-09-02,Cash on Delivery,Delivered,Pune
+ORD0487,CUST1296,Smartphone,Electronics,3,18999,56997,2025-10-17,Debit Card,Delivered,Nashik
+ORD0488,,Smartphone,CLOTHING,3,18999,56997,2025-01-16,Credit Card,Cancelled,Nashik
+ORD0489,CUST1091,Jacket,Clothing,5,2499,12495,2025-06-23,Debit Card,Processing,Pune
+ORD0490,CUST1295,Shampoo,Beauty,3,599,1797,2025-12-11,UPI,Cancelled,Pune
+ORD0491,CUST1187,Face Wash,Beauty,2,399,798,2025-02-25,Net Banking,Delivered,Satara
+ORD0492,CUST1114,Smartwatch,Electronics,2,3999,7998,2025-06-17,Cash on Delivery,Delivered,Mumbai
+ORD0493,CUST1185,Python Book,Books,3,799,2397,2025-07-05,Net Banking,Delivered,Navi Mumbai
+ORD0494,CUST1129,Laptop,Electronics,4,55000,220000,2025-07-26,Debit Card,Delivered,Mumbai
+ORD0495,CUST1202,Jeans,Clothing,5,1499,7495,2025-05-13,Cash on Delivery,Shipped,Navi Mumbai
+ORD0496,CUST1291,Business Book,Books,4,699,2796,2025-03-24,Cash on Delivery,Delivered,Nagpur
+ORD0497,CUST1153,Skin Cream,Beauty,2,749,1498,2025-01-23,Net Banking,Processing,Satara
+ORD0498,CUST1032,Data Science Book,Books,5,899,4495,2025-11-07,Net Banking,Delivered,Satara
+ORD0499,CUST1137,Jeans,Clothing,1,1499,1499,2025-08-01,Debit Card,Processing,Navi Mumbai
+ORD0500,CUST1076,Laptop,Electronics,5,55000,275000,2025-03-28,Debit Card,Delivered,Aurangabad
+ORD0501,CUST1141,Headphones,Electronics,5,2499,12495,2025-03-28,Cash on Delivery,Delivered,Navi Mumbai
+ORD0502,CUST1108,Jacket,Clothing,5,2499,12495,2025-05-14,Credit Card,Delivered,Aurangabad
+ORD0503,CUST1138,Smartphone,Electronics,3,18999,56997,2025-05-02,Cash on Delivery,Delivered,Mumbai
+ORD0504,CUST1167,Shoes,Clothing,3,1999,5997,2025-07-25,Debit Card,Delivered,Thane
+ORD0505,CUST1289,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-06-24,UPI,Delivered,Satara
+ORD0506,CUST1141,Jeans,electronics,1,1499,1499,2025-12-20,UPI,Shipped,Pune
+ORD0507,CUST1128,T-Shirt,Clothing,5,699,3495,2025-10-22,Credit Card,Delivered,Ahilyanagar
+ORD0508,CUST1103,Business Book,Books,2,699,1398,2025-11-01,Net Banking,Processing,Pune
+ORD0509,CUST1029,Skin Cream,Beauty,5,749,3745,2025-07-26,Net Banking,Delivered,Satara
+ORD0510,CUST1120,Smartphone, Electronics ,4,18999,75996,2025-03-14,UPI,Delivered,Aurangabad
+ORD0511,CUST1233,Skin Cream,Beauty,4,749,2996,2025-04-28,Net Banking,Delivered,Mumbai
+ORD0512,CUST1181,Jacket,Clothing,3,2499,7497,2025-05-19,UPI,Processing,Nashik
+ORD0513,CUST1185,Laptop,Electronics,4,55000,220000,2025-08-27,Cash on Delivery,Cancelled,Nagpur
+ORD0514,CUST1045,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-11-18,Cash on Delivery,Returned,Satara
+ORD0515,CUST1206,Jacket,Clothing,3,2499,7497,2025-07-01,Debit Card,Shipped,Nagpur
+ORD0516,CUST1107,Shoes,Clothing,3,1999,5997,2025-05-02,Debit Card,Delivered,Mumbai
+ORD0517,CUST1159,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-12-14,Cash on Delivery,Delivered,Thane
+ORD0518,CUST1201,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-05-16,Credit Card,Delivered,Navi Mumbai
+ORD0519,CUST1211,Dinner Set,Home & Kitchen,1,1299,1299,2025-12-21,Cash on Delivery,Processing,Navi Mumbai
+ORD0520,CUST1277,Electric Kettle,Home & Kitchen,4,1799,7196,2025-08-03,Credit Card,Cancelled,Ahilyanagar
+ORD0521,CUST1170,Cookware Set,Home & Kitchen,2,2499,4998,2025-11-28,Net Banking,Shipped,Aurangabad
+ORD0522,CUST1040,Shoes,Clothing,3,1999,5997,2025-11-09,Net Banking,Delivered,Satara
+ORD0523,CUST1002,Jacket,Clothing,1,2499,2499,2025-08-06,Credit Card,Delivered,Satara
+ORD0524,CUST1294,Jeans,Clothing,1,1499,1499,2025-03-03,UPI,Delivered,Aurangabad
+ORD0525,CUST1156,Data Science Book,Books,1,899,899,2025-06-22,Net Banking,Shipped,Nagpur
+ORD0526,CUST1279,Python Book,Books,5,799,3995,2025-07-26,Cash on Delivery,Processing,Nagpur
+ORD0527,CUST1063,Shoes,Clothing,1,1999,1999,2025-06-14,Net Banking,Cancelled,Nashik
+ORD0528,CUST1217,Novel,Books,2,499,998,2025-06-25,Debit Card,CANCELLED,Navi Mumbai
+ORD0529,CUST1264,Shampoo,Beauty,-1,599,-599,2025-09-15,Debit Card,Processing,Aurangabad
+ORD0530,CUST1287,Smartwatch,Electronics,4,3999,15996,2025-10-26,Debit Card,Processing,Satara
+ORD0531,CUST1143,Headphones,Electronics,3,2499,7497,2025-12-17,Net Banking,Delivered,Nashik
+ORD0532,CUST1291,Headphones,Electronics,5,2499,12495,2025-10-31,Credit Card,Shipped,Nagpur
+ORD0533,CUST1003,Headphones,Electronics,3,2499,7497,2025-12-21,Net Banking,Cancelled,Satara
+ORD0534,CUST1019,Shoes,Clothing,5,1999,9995,2025-01-29,Debit Card,Shipped,Kolhapur
+ORD0535,CUST1183,Headphones,Electronics,3,2499,7497,2025-04-20,Cash on Delivery,Delivered,Ahilyanagar
+ORD0536,CUST1113,Perfume,Beauty,2,1299,2598,2025-09-03,Credit Card,Shipped,Kolhapur
+ORD0537,CUST1155,Shoes,Clothing,3,1999,5997,2025-07-08,Credit Card,Delivered,Ahilyanagar
+ORD0538,CUST1182,Electric Kettle,Home & Kitchen,1,1799,1799,2025-02-28,Credit Card,Delivered,Pune
+ORD0539,CUST1104,Dinner Set,Home & Kitchen,1,1299,1299,2025-05-23,Cash on Delivery,Delivered,Mumbai
+ORD0540,CUST1059,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-04-22,Debit Card,Delivered,Thane
+ORD0541,CUST1184,Python Book,Books,3,799,2397,2025-06-05,Credit Card,Delivered,Mumbai
+ORD0542,CUST1026,Cookware Set,Home & Kitchen,2,2499,4998,2025-10-19,Debit Card,Delivered,Thane
+ORD0543,CUST1209,Dinner Set,Home & Kitchen,5,1299,6495,2025-10-23,Cash on Delivery,Cancelled,Navi Mumbai
+ORD0544,CUST1215,Jacket,Clothing,3,2499,7497,2025-06-30,UPI,Returned,Nagpur
+ORD0545,CUST1207,Smartphone,Electronics,1,18999,18999,2025-09-21,Net Banking,Delivered,Nagpur
+ORD0546,CUST1064,T-Shirt,Clothing,4,699,2796,2025-09-30,Credit Card,Returned,Nashik
+ORD0547,CUST1058,Cookware Set,Home & Kitchen,2,2499,4998,2025-03-12,Credit Card,Delivered,Mumbai
+ORD0548,CUST1084,Laptop,Electronics,4,55000,220000,2025-09-28,Debit Card,Returned,Kolhapur
+ORD0549,CUST1110,Perfume,Beauty,4,1299,5196,2025-02-25,Net Banking,Delivered,Satara
+ORD0550,CUST1013,Smartphone,Electronics,4,18999,75996,2025-05-05,Cash on Delivery,Delivered,Aurangabad
+ORD0551,CUST1011,Shampoo,Beauty,2,599,1198,2025-01-31,Cash on Delivery,Shipped,Ahilyanagar
+ORD0552,CUST1145,Jeans,Clothing,3,1499,4497,2025-04-22,UPI,Delivered,Satara
+ORD0553,CUST1226,Python Book,Books,5,799,3995,2025-07-03,UPI,Delivered,Kolhapur
+ORD0554,CUST1271,Electric Kettle,Home & Kitchen,4,1799,7196,2025-04-16,Net Banking,Returned,Kolhapur
+ORD0555,CUST1208,Shampoo,Beauty,3,599,1797,2025-03-23,UPI,Delivered,Aurangabad
+ORD0556,CUST1048,Business Book,Books,1,699,699,2025-08-15,Credit Card,Delivered,Navi Mumbai
+ORD0557,CUST1229,T-Shirt,Clothing,5,699,3495,2025-12-31,Debit Card,Processing,Satara
+ORD0558,CUST1072,Shampoo,Beauty,4,599,2396,2025-02-08,UPI,Processing,Aurangabad
+ORD0559,CUST1222,Smartwatch,Electronics,4,3999,15996,2025-02-22,Debit Card,Delivered,Aurangabad
+ORD0560,CUST1247,Python Book,Books,5,799,3995,2025-07-19,UPI,Processing,Nashik
+ORD0561,CUST1177,Perfume,Beauty,3,1299,3897,2025-03-17,Debit Card,Cancelled,Ahilyanagar
+ORD0562,CUST1254,Smartphone,Electronics,1,18999,18999,2025-10-14,Net Banking,Cancelled,Navi Mumbai
+ORD0563,CUST1127,Dinner Set,Home & Kitchen,5,1299,6495,2025-02-14,Credit Card,Processing,Nagpur
+ORD0564,CUST1058,T-Shirt,Clothing,4,699,2796,2025-09-30,,Returned,Navi Mumbai
+ORD0565,CUST1187,Smartwatch,Electronics,3,3999,11997,2025-04-21,Net Banking,Delivered,Pune
+ORD0566,CUST1210,Data Science Book,Books,2,899,1798,2025-09-03,UPI,Shipped,Mumbai
+ORD0567,CUST1171,Jeans,Clothing,2,1499,2998,2025-09-26,Net Banking,Processing,Navi Mumbai
+ORD0568,CUST1201,Electric Kettle,Home & Kitchen,4,1799,7196,2025-05-23,Cash on Delivery,Delivered,Ahilyanagar
+ORD0569,CUST1137,Smartwatch,Electronics,1,3999,3999,2025-11-09,UPI,Processing,Mumbai
+ORD0570,CUST1072,Smartwatch,Electronics,4,3999,15996,2025-08-25,Debit Card,Delivered,Pune
+ORD0571,CUST1103,Cookware Set,Home & Kitchen,3,2499,7497,2025-05-19,Debit Card,Shipped,Pune
+ORD0572,CUST1056,Smartphone,Electronics,5,18999,94995,2025-12-07,Credit Card,Delivered,Nashik
+ORD0573,CUST1139,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-08-15,UPI,Delivered,Mumbai
+ORD0574,CUST1006,Electric Kettle,Home & Kitchen,4,1799,7196,2025-09-30,Debit Card,Delivered,Mumbai
+ORD0575,CUST1068,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-09-01,Credit Card,Cancelled,Nagpur
+ORD0576,CUST1105,Perfume,Beauty,2,1299,2598,2025-10-15,Cash on Delivery,Shipped,Nashik
+ORD0577,CUST1210,Jacket,Clothing,3,2499,7497,2025-10-11,UPI,Returned,Thane
+ORD0578,CUST1184,Shampoo,Beauty,4,599,2396,2025-05-17,Cash on Delivery,Delivered,Navi Mumbai
+ORD0579,CUST1250,Face Wash,Beauty,2,399,798,2025-03-08,Credit Card,Cancelled,Nagpur
+ORD0580,CUST1152,Python Book,Books,3,799,2397,2025-11-19,Net Banking,Delivered,Pune
+ORD0581,CUST1044,Smartwatch,Electronics,1,3999,3999,2025-06-30,Credit Card,Shipped,Navi Mumbai
+ORD0582,CUST1087,Perfume,Beauty,4,1299,5196,2025-05-12,UPI,Delivered,Mumbai
+ORD0583,CUST1116,Laptop,Electronics,5,55000,275000,2025-12-06,Net Banking,Processing,Pune
+ORD0584,CUST1025,Smartphone,Electronics,2,18999,37998,2025-09-07,Net Banking,Delivered,Satara
+ORD0585,CUST1091,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-04-22,Credit Card,Delivered,Nashik
+ORD0586,CUST1242,Electric Kettle,Home & Kitchen,3,1799,5397,2025-02-09,Credit Card,Delivered,Pune
+ORD0587,CUST1005,Headphones,Electronics,5,2499,12495,2025-07-11,Credit Card,Delivered,Navi Mumbai
+ORD0588,CUST1197,Jacket,Clothing,5,2499,12495,2025-12-24,UPI,Cancelled,Mumbai
+ORD0589,CUST1267,Novel,Books,3,499,1497,2025-01-30,Cash on Delivery,Delivered,Navi Mumbai
+ORD0590,CUST1094,Headphones,Electronics,5,2499,12495,2025-08-08,UPI,Delivered,Satara
+ORD0591,CUST1031,Jacket,Clothing,2,2499,4998,2025-09-04,Cash on Delivery,Delivered,Pune
+ORD0592,CUST1249,Shoes,Clothing,5,1999,9995,2025-04-21,Credit Card,Delivered,Ahilyanagar
+ORD0593,CUST1008,Python Book,Books,3,799,2397,2025-07-27,UPI,Delivered,Satara
+ORD0594,CUST1262,Laptop,Electronics,1,55000,55000,2025-03-19,Debit Card,Delivered,Thane
+ORD0595,CUST1269,Python Book,Books,5,799,3995,2025-10-10,UPI,Delivered,Thane
+ORD0596,CUST1217,Shampoo,electronics,5,599,2995,2025-02-27,Credit Card,Delivered,Ahilyanagar
+ORD0597,CUST1146,Jeans,Clothing,3,1499,4497,2025-08-30,Cash on Delivery,Delivered,Navi Mumbai
+ORD0598,CUST1239,Jacket,Clothing,3,2499,7497,2025-03-04,Cash on Delivery,Shipped,Nashik
+ORD0599,CUST1044,Shoes,Clothing,3,1999,5997,2025-05-02,Net Banking,Delivered,Navi Mumbai
+ORD0600,CUST1164,Smartphone,Electronics,3,18999,56997,2025-10-15,Net Banking,Delivered,Ahilyanagar
+ORD0601,CUST1187,Headphones,Electronics,4,2499,9996,2025-10-23,Cash on Delivery,Cancelled,Nagpur
+ORD0602,CUST1287,Shoes,Clothing,5,1999,9995,2025-07-13,Debit Card,Delivered,Thane
+ORD0603,CUST1264,Skin Cream,Beauty,1,749,749,2025-02-14,Cash on Delivery,Cancelled,Satara
+ORD0604,CUST1230,Shoes,Clothing,3,1999,5997,2025-10-13,Credit Card,Delivered,Ahilyanagar
+ORD0605,CUST1173,Shoes,Clothing,2,1999,3998,2025-06-20,Net Banking,Delivered,Thane
+ORD0606,CUST1093,Shampoo, Electronics ,4,599,2396,2025-01-04,Credit Card,Cancelled,Thane
+ORD0607,CUST1212,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-07-21,Debit Card,Delivered,Satara
+ORD0608,CUST1297,Smartphone,Electronics,4,18999,75996,2025-12-03,Debit Card,Delivered,Aurangabad
+ORD0609,CUST1247,Business Book,Books,1,699,699,2025-05-30,Debit Card,Delivered,Satara
+ORD0610,CUST1270,Smartwatch,Electronics,4,3999,15996,2025-03-28,UPI,Delivered,Kolhapur
+ORD0611,CUST1175,Laptop,Electronics,3,55000,165000,2025-05-05,Net Banking,Delivered,Navi Mumbai
+ORD0612,CUST1248,Shoes,Clothing,2,1999,3998,2025-08-25,UPI,Processing,Satara
+ORD0613,CUST1116,Laptop,Electronics,1,55000,55000,2025-01-25,Credit Card,Delivered,Ahilyanagar
+ORD0614,CUST1258,Data Science Book,Books,1,899,899,2025-03-05,Cash on Delivery,Delivered,Mumbai
+ORD0615,CUST1018,Headphones,Electronics,1,2499,2499,2025-08-31,Debit Card,Delivered,Satara
+ORD0616,CUST1298,Face Wash,Beauty,4,399,1596,2025-08-27,Cash on Delivery,Delivered,Nagpur
+ORD0617,CUST1283,Shampoo,Beauty,2,599,1198,2025-11-11,Cash on Delivery,Delivered,Pune
+ORD0618,CUST1090,Smartphone,Electronics,4,18999,75996,2025-01-08,Cash on Delivery,Delivered,Ahilyanagar
+ORD0619,CUST1180,Smartwatch,Electronics,2,3999,7998,2025-03-12,Cash on Delivery,Processing,Nashik
+ORD0620,CUST1106,Jacket,Clothing,4,2499,9996,2025-10-02,Net Banking,Processing,Navi Mumbai
+ORD0621,CUST1164,Smartwatch,Electronics,1,3999,3999,2025-11-22,Credit Card,Delivered,Mumbai
+ORD0622,CUST1034,Smartwatch,Electronics,5,3999,19995,2025-10-02,Net Banking,Delivered,Aurangabad
+ORD0623,CUST1231,Laptop,Electronics,4,55000,220000,2025-11-25,Debit Card,Delivered,Aurangabad
+ORD0624,CUST1009,Skin Cream,Beauty,1,749,749,2025-05-28,Cash on Delivery,Delivered,Ahilyanagar
+ORD0625,CUST1278,Laptop,Electronics,3,55000,165000,2025-06-14,Credit Card,Delivered,Mumbai
+ORD0626,CUST1135,Smartphone,Electronics,2,18999,37998,2025-04-05,Cash on Delivery,Returned,Nashik
+ORD0627,CUST1181,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-04-05,Credit Card,Delivered,Satara
+ORD0628,CUST1144,Shoes,Clothing,1,1999,1999,2025-12-18,Net Banking,Delivered,Thane
+ORD0629,CUST1095,Business Book,Books,5,699,3495,2025-01-04,UPI,Cancelled,Pune
+ORD0630,CUST1106,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-07-18,Cash on Delivery,Delivered,Satara
+ORD0631,CUST1195,Laptop,Electronics,3,55000,165000,2025-11-27,Cash on Delivery,Delivered,Pune
+ORD0632,CUST1182,Face Wash,Beauty,2,399,798,2025-11-12,Cash on Delivery,Delivered,Kolhapur
+ORD0633,CUST1296,Laptop,Electronics,4,55000,220000,2025-10-25,UPI,Shipped,Kolhapur
+ORD0634,CUST1208,Electric Kettle,Home & Kitchen,5,1799,8995,2025-09-03,Net Banking,Shipped,Nagpur
+ORD0635,CUST1162,Electric Kettle,Home & Kitchen,1,1799,1799,2025-12-02,Credit Card,Delivered,Thane
+ORD0636,CUST1226,Laptop,Electronics,1,55000,55000,2025-01-10,Cash on Delivery,Delivered,Mumbai
+ORD0637,CUST1057,Shoes,Clothing,4,1999,7996,2025-06-08,Credit Card,Delivered,Ahilyanagar
+ORD0638,CUST1146,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-04-20,Credit Card,Cancelled,Aurangabad
+ORD0639,CUST1206,Smartwatch,Electronics,5,3999,19995,2025-01-22,Net Banking,Cancelled,Kolhapur
+ORD0640,CUST1018,T-Shirt,Clothing,-1,699,-699,2025-05-28,Debit Card,Delivered,Ahilyanagar
+ORD0641,CUST1206,Dinner Set,Home & Kitchen,3,1299,3897,2025-08-19,Cash on Delivery,Delivered,Navi Mumbai
+ORD0642,CUST1044,Electric Kettle,Home & Kitchen,4,1799,7196,2025-06-18,Credit Card,Delivered,Nagpur
+ORD0643,CUST1043,Dinner Set,Home & Kitchen,3,1299,3897,2025-07-25,UPI,Delivered,Nashik
+ORD0644,CUST1212,Jacket,Clothing,5,2499,12495,2025-09-08,Debit Card,Cancelled,Aurangabad
+ORD0645,CUST1219,Business Book,Books,2,699,1398,2025-11-21,UPI,Delivered,Pune
+ORD0646,CUST1054,Jacket,Clothing,3,2499,7497,2025-02-23,Credit Card,Delivered,Nagpur
+ORD0647,CUST1129,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-04-21,UPI,Delivered,Nagpur
+ORD0648,CUST1131,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-06-10,Cash on Delivery,Delivered,Nagpur
+ORD0649,CUST1275,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-08-31,Debit Card,Shipped,Kolhapur
+ORD0650,CUST1043,Smartwatch,Electronics,5,3999,19995,2025-12-31,Debit Card,Delivered,Thane
+ORD0651,CUST1299,Perfume,Beauty,3,1299,3897,2025-01-26,Net Banking,Delivered,Nagpur
+ORD0652,CUST1207,Dinner Set,Home & Kitchen,3,1299,3897,2025-09-25,Debit Card,Shipped,Aurangabad
+ORD0653,CUST1220,Electric Kettle,Home & Kitchen,4,1799,7196,2025-08-18,UPI,Returned,Thane
+ORD0654,CUST1154,Cookware Set,Home & Kitchen,3,2499,7497,2025-12-25,Cash on Delivery,Delivered,Ahilyanagar
+ORD0655,CUST1089,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-09-26,Net Banking,Shipped,Kolhapur
+ORD0656,CUST1007,Perfume,Beauty,3,1299,3897,2025-11-01,Credit Card,Delivered,Aurangabad
+ORD0657,CUST1235,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-01-28,UPI,Delivered,Aurangabad
+ORD0658,CUST1035,T-Shirt,Clothing,4,699,2796,2025-09-27,Cash on Delivery,Returned,Nagpur
+ORD0659,CUST1106,Jacket,Clothing,1,2499,2499,2025-12-24,Debit Card,Shipped,Aurangabad
+ORD0660,CUST1278,Cookware Set,Home & Kitchen,1,2499,2499,2025-01-07,UPI,Returned,Kolhapur
+ORD0661,CUST1230,Smartphone,Electronics,5,18999,94995,2025-11-02,Debit Card,Delivered,Pune
+ORD0662,CUST1132,Smartwatch,Electronics,2,3999,7998,2025-01-04,Debit Card,Shipped,Nagpur
+ORD0663,CUST1291,Cookware Set,Home & Kitchen,2,2499,4998,2025-07-08,Net Banking,Delivered,Nagpur
+ORD0664,CUST1032,Electric Kettle,Home & Kitchen,3,1799,5397,2025-10-10,UPI,Delivered,Nashik
+ORD0665,CUST1039,Headphones,Electronics,4,2499,9996,2025-01-17,,Delivered,Kolhapur
+ORD0666,CUST1108,Python Book,Books,3,799,2397,2025-03-07,Cash on Delivery,Processing,Mumbai
+ORD0667,CUST1087,Jacket,Clothing,5,2499,12495,2025-09-14,Credit Card,Delivered,Aurangabad
+ORD0668,CUST1095,Dinner Set,Home & Kitchen,3,1299,3897,2025-04-11,Net Banking,Delivered,Satara
+ORD0669,CUST1155,T-Shirt,Clothing,4,699,2796,2025-04-28,UPI,Cancelled,Navi Mumbai
+ORD0670,CUST1258,Headphones,Electronics,5,2499,12495,2025-09-28,Cash on Delivery,Delivered,Aurangabad
+ORD0671,CUST1236,Headphones,Electronics,3,2499,7497,2025-07-29,Net Banking,Cancelled,Satara
+ORD0672,CUST1098,Jacket,Clothing,2,2499,4998,2025-07-15,Net Banking,Delivered,Mumbai
+ORD0673,CUST1185,Python Book,Books,2,799,1598,2025-01-25,Net Banking,Delivered,Navi Mumbai
+ORD0674,CUST1265,Dinner Set,Home & Kitchen,3,1299,3897,2025-04-29,Credit Card,Delivered,Ahilyanagar
+ORD0675,CUST1251,Cookware Set,Home & Kitchen,5,2499,12495,2025-11-26,Credit Card,Delivered,Nashik
+ORD0676,CUST1006,Smartwatch,Electronics,5,3999,19995,2025-02-04,Cash on Delivery,Delivered,Nashik
+ORD0677,CUST1175,Perfume,Beauty,2,1299,2598,2025-12-06,Cash on Delivery,Delivered,Nashik
+ORD0678,CUST1009,Headphones,Electronics,5,2499,12495,2025-07-14,Cash on Delivery,Delivered,Ahilyanagar
+ORD0679,CUST1113,Headphones,Electronics,2,2499,4998,2025-10-05,Net Banking,Delivered,Satara
+ORD0680,CUST1012,Shampoo,Beauty,1,599,599,2025-11-02,UPI,Delivered,Satara
+ORD0681,CUST1171,Python Book,Books,1,799,799,2025-10-06,Net Banking,Returned,Mumbai
+ORD0682,CUST1092,Skin Cream,Beauty,4,749,2996,2025-05-26,Debit Card,Delivered,Kolhapur
+ORD0683,CUST1249,Shoes,Clothing,4,1999,7996,2025-03-09,Credit Card,Delivered,Satara
+ORD0684,CUST1197,Dinner Set,Home & Kitchen,5,1299,6495,2025-09-26,UPI,Delivered,Mumbai
+ORD0685,CUST1175,Python Book,Books,2,799,1598,2025-10-28,Cash on Delivery,Delivered,Mumbai
+ORD0686,CUST1035,Electric Kettle,Home & Kitchen,3,1799,5397,2025-05-27,Net Banking,Shipped,Aurangabad
+ORD0687,CUST1051,Novel,Books,1,499,499,2025-07-12,Debit Card,Returned,Navi Mumbai
+ORD0688,CUST1220,Headphones,Electronics,2,2499,4998,2025-03-17,Cash on Delivery,Processing,Pune
+ORD0689,CUST1126,Business Book,Books,4,699,2796,2025-09-10,UPI,Returned,Nashik
+ORD0690,CUST1150,Headphones,Electronics,5,2499,12495,2025-05-06,Cash on Delivery,Shipped,Thane
+ORD0691,CUST1232,Headphones,Electronics,5,2499,12495,2025-10-09,Net Banking,Returned,Pune
+ORD0692,CUST1158,Jacket,Clothing,3,2499,7497,2025-12-29,Net Banking,Delivered,Navi Mumbai
+ORD0693,CUST1088,Smartphone,Electronics,1,18999,18999,2025-04-13,Debit Card,Processing,Nashik
+ORD0694,CUST1134,Jeans,Clothing,4,1499,5996,2025-12-13,Debit Card,Shipped,Kolhapur
+ORD0695,CUST1177,Python Book,Books,5,799,3995,2025-03-18,Cash on Delivery,Delivered,Ahilyanagar
+ORD0696,CUST1058,Smartwatch,Electronics,1,3999,3999,2025-01-25,Credit Card,Delivered,Kolhapur
+ORD0697,CUST1142,Laptop,Electronics,5,55000,275000,2025-03-16,Credit Card,Returned,Navi Mumbai
+ORD0698,CUST1241,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-05-26,Cash on Delivery,Delivered,Nashik
+ORD0699,CUST1226,Perfume,Beauty,1,1299,1299,2025-05-06,Net Banking,Processing,Nashik
+ORD0700,CUST1129,Cookware Set,Home & Kitchen,3,2499,7497,2025-11-25,Credit Card,Delivered,Mumbai
+ORD0701,CUST1045,Smartwatch,Electronics,2,3999,7998,2025-02-03,Net Banking,Delivered,Kolhapur
+ORD0702,CUST1030,Headphones,Electronics,2,2499,4998,2025-01-10,UPI,Delivered,Thane
+ORD0703,CUST1168,T-Shirt, Electronics ,4,699,2796,2025-07-10,UPI,Delivered,Satara
+ORD0704,CUST1069,Perfume,Beauty,3,1299,3897,2025-11-04,Net Banking,Delivered,Mumbai
+ORD0705,CUST1109,Face Wash,Beauty,5,399,1995,2025-09-17,Credit Card,Delivered,Kolhapur
+ORD0706,CUST1267,Perfume,Beauty,1,1299,1299,2025-04-27,Debit Card,Cancelled,Satara
+ORD0707,CUST1037,Perfume,Beauty,5,1299,6495,2025-09-25,Credit Card,Cancelled,Kolhapur
+ORD0708,CUST1103,Python Book,Books,4,799,3196,2025-10-06,Net Banking,Returned,Satara
+ORD0709,CUST1276,Business Book,Books,1,699,699,2025-10-14,Cash on Delivery, SHIPPED ,Mumbai
+ORD0710,CUST1070,Shampoo,Beauty,4,599,2396,2025-04-16,Debit Card,Delivered,Mumbai
+ORD0711,CUST1144,Smartwatch,Electronics,5,3999,19995,2025-08-02,UPI,Delivered,Kolhapur
+ORD0712,CUST1100,Jacket,Clothing,1,2499,2499,2025-12-24,Debit Card,Processing,Aurangabad
+ORD0713,CUST1080,Smartwatch,Electronics,2,3999,7998,2025-08-08,Cash on Delivery,Delivered,Pune
+ORD0714,CUST1034,T-Shirt,Clothing,3,699,2097,2025-01-10,Cash on Delivery,Delivered,Thane
+ORD0715,CUST1174,Laptop,Electronics,5,55000,275000,2025-05-06,Debit Card,Delivered,Nashik
+ORD0716,CUST1166,Shoes,Clothing,3,1999,5997,2025-03-16,Net Banking,Delivered,Satara
+ORD0717,CUST1179,Laptop,Electronics,3,55000,165000,2025-11-24,Cash on Delivery,Delivered,Aurangabad
+ORD0718,CUST1191,Face Wash,Beauty,5,399,1995,2025-06-06,Cash on Delivery,Shipped,Nashik
+ORD0719,CUST1219,Smartwatch,Electronics,3,3999,11997,2025-01-01,Cash on Delivery,Delivered,Satara
+ORD0720,CUST1187,Cookware Set,Home & Kitchen,4,2499,9996,2025-06-14,UPI,Delivered,Ahilyanagar
+ORD0721,CUST1099,Skin Cream,Beauty,4,749,2996,2025-06-24,Cash on Delivery,Delivered,Pune
+ORD0722,CUST1206,Shoes,Clothing,2,1999,3998,2025-02-19,Credit Card,Delivered,Aurangabad
+ORD0723,CUST1264,Jeans,Clothing,4,1499,5996,2025-09-04,Debit Card,Shipped,Kolhapur
+ORD0724,CUST1222,Smartwatch,Electronics,5,3999,19995,2025-09-13,Cash on Delivery,Delivered,Pune
+ORD0725,CUST1098,Headphones,Electronics,4,2499,9996,2025-11-30,Credit Card,Delivered,Navi Mumbai
+ORD0726,CUST1014,T-Shirt,Clothing,1,699,699,2025-02-07,Debit Card,Delivered,Pune
+ORD0727,CUST1085,T-Shirt,Clothing,5,699,3495,2025-12-06,Net Banking,Processing,Nashik
+ORD0728,CUST1113,Shampoo,Beauty,2,599,1198,2025-05-08,Debit Card,Delivered,Satara
+ORD0729,CUST1081,Smartwatch,Electronics,5,3999,19995,2025-12-16,UPI,Delivered,Nagpur
+ORD0730,CUST1201,Headphones,Electronics,1,2499,2499,2025-06-14,Net Banking,Cancelled,Mumbai
+ORD0731,CUST1251,Smartwatch,Electronics,2,3999,7998,2025-06-06,UPI,Processing,Pune
+ORD0732,CUST1125,Smartphone,Electronics,4,18999,75996,2025-09-17,Credit Card,Delivered,Pune
+ORD0733,CUST1070,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-07-07,Credit Card,Delivered,Satara
+ORD0734,CUST1182,Smartphone,Electronics,5,18999,94995,2025-01-18,Net Banking,Processing,Navi Mumbai
+ORD0735,CUST1286,Data Science Book,Books,2,899,1798,2025-07-01,Credit Card,Delivered,Nagpur
+ORD0736,,Perfume,Beauty,2,1299,2598,2025-04-16,,Delivered,Pune
+ORD0737,CUST1009,Skin Cream,Beauty,5,749,3745,2025-11-30,Debit Card,Delivered,Satara
+ORD0738,CUST1065,Headphones,Electronics,4,2499,9996,2025-11-24,UPI,Delivered,
+ORD0739,CUST1099,Headphones,Electronics,1,2499,2499,2025-11-12,Net Banking,Cancelled,Nagpur
+ORD0740,CUST1098,Business Book,Books,1,699,699,2025-02-11,UPI,Returned,Mumbai
+ORD0741,CUST1110,Smartphone,Electronics,1,18999,18999,2025-07-26,Debit Card,Shipped,Nashik
+ORD0742,CUST1198,Jeans,Clothing,3,1499,4497,2025-04-24,Net Banking,Delivered,Pune
+ORD0743,CUST1054,Smartphone,Electronics,4,18999,75996,2025-03-02,Credit Card,Delivered,Pune
+ORD0744,CUST1187,Novel,Books,3,499,1497,2025-09-30,Cash on Delivery,Shipped,Mumbai
+ORD0745,CUST1010,Shoes,Clothing,3,1999,5997,2025-01-02,Credit Card,Delivered,Ahilyanagar
+ORD0746,CUST1129,Python Book,Books,1,799,799,2025-12-06,Net Banking,Delivered,Nashik
+ORD0747,CUST1023,T-Shirt,Clothing,1,699,699,2025-10-06,Credit Card,Delivered,Satara
+ORD0748,CUST1192,Novel,Books,5,499,2495,2025-02-24,Debit Card,Returned,Mumbai
+ORD0749,CUST1035,Data Science Book,Books,5,899,4495,2025-06-03,Debit Card,Delivered,Mumbai
+ORD0750,CUST1032,T-Shirt,Clothing,3,699,2097,2025-11-10,Credit Card,Returned,Kolhapur
+ORD0751,CUST1006,Jeans,Clothing,4,1499,5996,2025-08-12,Credit Card,Delivered,Mumbai
+ORD0752,CUST1097,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-07-28,Credit Card,Returned,Satara
+ORD0753,CUST1015,Dinner Set, Electronics ,1,1299,1299,2025-02-01,Debit Card,Shipped,Mumbai
+ORD0754,CUST1199,Jacket,electronics,4,2499,9996,2025-04-24,Net Banking,Delivered,Navi Mumbai
+ORD0755,CUST1074,Shoes,Clothing,2,1999,3998,2025-07-22,UPI,Shipped,Ahilyanagar
+ORD0756,CUST1216,T-Shirt,Clothing,1,699,699,2025-05-25,Net Banking,Cancelled,Kolhapur
+ORD0757,CUST1273,Smartwatch,Electronics,1,3999,3999,2025-11-20,Net Banking,Delivered,Thane
+ORD0758,CUST1152,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-07-02,Credit Card,Delivered,Mumbai
+ORD0759,CUST1082,Novel,Books,5,499,2495,2025-02-14,UPI,Delivered,Pune
+ORD0760,CUST1107,Smartwatch,Electronics,2,3999,7998,2025-02-16,Cash on Delivery,Delivered,Ahilyanagar
+ORD0761,CUST1217,Shampoo,Beauty,4,599,2396,2025-01-26,Credit Card,Delivered,Pune
+ORD0762,CUST1275,T-Shirt,Clothing,3,699,2097,2025-10-25,UPI,Delivered,Pune
+ORD0763,CUST1055,Jacket,Clothing,3,2499,7497,2025-02-18,Credit Card,Delivered,Nagpur
+ORD0764,CUST1129,Python Book,Books,4,799,3196,2025-07-08,UPI,Delivered,Aurangabad
+ORD0765,CUST1134,Cookware Set,Home & Kitchen,5,2499,12495,2025-12-14,Cash on Delivery,Delivered,Kolhapur
+ORD0766,CUST1199,Laptop,Electronics,2,55000,110000,2025-11-30,UPI,Processing,Nagpur
+ORD0767,CUST1002,Smartwatch,Electronics,4,3999,15996,2025-09-10,Cash on Delivery,Delivered,Satara
+ORD0768,CUST1282,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-08-24,Net Banking,Delivered,Nagpur
+ORD0769,CUST1079,Laptop,Electronics,1,55000,55000,2025-03-28,Net Banking,Shipped,Mumbai
+ORD0770,CUST1268,Headphones,Electronics,3,2499,7497,2025-07-02,Credit Card,Cancelled,Nashik
+ORD0771,CUST1278,T-Shirt,Clothing,5,699,3495,2025-07-11,Credit Card,Delivered,Aurangabad
+ORD0772,CUST1084,Electric Kettle,Home & Kitchen,3,1799,5397,2025-09-19,Debit Card,Cancelled,Ahilyanagar
+ORD0773,CUST1143,Business Book,Books,5,699,3495,2025-01-11,Debit Card,Delivered,Navi Mumbai
+ORD0774,CUST1017,Data Science Book,Books,3,899,2697,2025-04-03,Credit Card,Delivered,Ahilyanagar
+ORD0775,,Python Book,Books,2,799,1598,2025-02-04,Credit Card,Returned,Navi Mumbai
+ORD0776,CUST1145,Smartphone,Electronics,2,18999,37998,2025-05-02,Debit Card,Delivered,Nashik
+ORD0777,CUST1106,Jacket,Clothing,4,2499,9996,2025-12-20,Net Banking,Shipped,Nagpur
+ORD0778,CUST1081,Electric Kettle,Home & Kitchen,2,1799,3598,2025-01-12,Credit Card,Delivered,Thane
+ORD0779,CUST1002,Jacket,Clothing,1,2499,2499,2025-05-20,Credit Card,Delivered,Ahilyanagar
+ORD0780,CUST1008,Data Science Book,Books,4,899,3596,2025-04-22,Cash on Delivery,Delivered,Aurangabad
+ORD0781,CUST1167,Python Book,Books,5,799,3995,2025-08-24,Cash on Delivery,Returned,Navi Mumbai
+ORD0782,CUST1086,Laptop,Electronics,5,55000,275000,2025-02-13,Cash on Delivery,Cancelled,Satara
+ORD0783,CUST1051,Headphones,Electronics,2,2499,4998,2025-10-21,Credit Card,Shipped,Ahilyanagar
+ORD0784,CUST1289,T-Shirt,Clothing,1,699,699,2025-02-08,Debit Card,Processing,Kolhapur
+ORD0785,CUST1074,Shoes,Clothing,2,1999,3998,2025-10-10,UPI,Processing,Satara
+ORD0786,CUST1180,Electric Kettle,Home & Kitchen,2,1799,3598,2025-02-26,Net Banking,Shipped,Navi Mumbai
+ORD0787,CUST1175,T-Shirt,Clothing,2,699,1398,2025-01-18,UPI,Delivered,Nagpur
+ORD0788,CUST1110,Jeans,Clothing,5,1499,7495,2025-09-03,Net Banking,Cancelled,Ahilyanagar
+ORD0789,CUST1194,Smartwatch,Electronics,1,3999,3999,2025-05-19,Credit Card,Delivered,Pune
+ORD0790,CUST1042,Dinner Set,Home & Kitchen,1,1299,1299,2025-11-20,Debit Card,Shipped,Nashik
+ORD0791,CUST1280,Headphones,Electronics,1,2499,2499,2025-05-20,Credit Card,Delivered,Thane
+ORD0792,CUST1013,Smartwatch,Electronics,5,3999,19995,2025-07-01,Debit Card,Delivered,Satara
+ORD0793,CUST1076,Jeans,Clothing,2,1499,2998,2025-09-12,Credit Card,Delivered,Mumbai
+ORD0794,CUST1127,Jeans,Clothing,4,1499,5996,2025-09-15,Net Banking,Delivered,Satara
+ORD0795,CUST1032,Dinner Set,Home & Kitchen,4,1299,5196,2025-11-25,Net Banking,Delivered,Satara
+ORD0796,CUST1143,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-06-27,Credit Card,Delivered,Navi Mumbai
+ORD0797,CUST1143,Novel,Books,3,499,1497,2025-09-12,Cash on Delivery,Processing,Pune
+ORD0798,CUST1221,Smartwatch,Electronics,2,3999,7998,2025-05-31,Net Banking,Delivered,Pune
+ORD0799,CUST1123,Perfume,Beauty,5,1299,6495,2025-05-31,Net Banking,Returned,Thane
+ORD0800,CUST1090,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-10-27,Net Banking,Delivered,Pune
+ORD0801,CUST1182,Smartwatch,Electronics,5,3999,19995,2025-09-01,Cash on Delivery,Processing,Ahilyanagar
+ORD0802,CUST1106,Shampoo,Beauty,5,599,2995,2025-04-13,Net Banking,Shipped,Satara
+ORD0803,CUST1056,T-Shirt,Clothing,1,699,699,2025-03-12,UPI,Processing,Nashik
+ORD0804,CUST1083,Smartphone,Electronics,5,18999,94995,2025-08-09,Debit Card,Delivered,Aurangabad
+ORD0805,CUST1215,Shampoo,Beauty,4,599,2396,2025-10-08,Cash on Delivery,Delivered,Ahilyanagar
+ORD0806,CUST1063,T-Shirt,Clothing,5,699,3495,2025-05-26,UPI,Delivered,Kolhapur
+ORD0807,CUST1207,Mixer Grinder,CLOTHING,1,3299,3299,2025-09-12,Cash on Delivery,Delivered,Nagpur
+ORD0808,CUST1218,Laptop,Electronics,1,55000,55000,2025-06-16,UPI,Delivered,Thane
+ORD0809,CUST1294,Cookware Set,Home & Kitchen,2,2499,4998,2025-02-18,Cash on Delivery,Shipped,Kolhapur
+ORD0810,CUST1232,Electric Kettle,Home & Kitchen,2,1799,3598,2025-02-18,Debit Card,Delivered,Navi Mumbai
+ORD0811,CUST1185,Perfume,Beauty,2,1299,2598,2025-03-21,Net Banking,Cancelled,Nagpur
+ORD0812,CUST1214,Shampoo,Beauty,4,599,2396,2025-07-14,UPI,Delivered,Kolhapur
+ORD0813,CUST1196,Perfume,Beauty,1,1299,1299,2025-03-17,Cash on Delivery,Delivered,Navi Mumbai
+ORD0814,CUST1165,Smartwatch,Electronics,4,3999,15996,2025-01-16,Net Banking,Delivered,Mumbai
+ORD0815,CUST1062,Business Book,Books,5,699,3495,2025-07-25,Cash on Delivery,Delivered,Nagpur
+ORD0816,CUST1068,Perfume,Beauty,1,1299,1299,2025-04-27,Debit Card,Returned,Ahilyanagar
+ORD0817,CUST1231,Smartwatch,Electronics,2,3999,7998,2025-10-24,Net Banking,Delivered,Satara
+ORD0818,CUST1092,Dinner Set,Home & Kitchen,3,1299,3897,2025-07-12,UPI,Delivered,Ahilyanagar
+ORD0819,CUST1069,Data Science Book,Books,1,0,0,2025-05-25,Credit Card,Delivered,Nagpur
+ORD0820,CUST1147,Cookware Set,Home & Kitchen,3,2499,7497,2025-03-04,Cash on Delivery,Delivered,Thane
+ORD0821,CUST1108,Face Wash,Beauty,3,399,1197,2025-10-19,Credit Card,Delivered,Kolhapur
+ORD0822,CUST1092,Shampoo,Beauty,3,599,1797,2025-01-21,Cash on Delivery,Delivered,Aurangabad
+ORD0823,CUST1198,Face Wash,Beauty,5,399,1995,2025-01-18,UPI,Delivered,Pune
+ORD0824,CUST1227,Skin Cream,Beauty,2,749,1498,2025-10-04,UPI,Delivered,Kolhapur
+ORD0825,CUST1172,Jeans,Clothing,5,1499,7495,2025-02-24,Net Banking,Cancelled,Thane
+ORD0826,CUST1201,Skin Cream,Beauty,3,749,2247,2025-03-28,UPI,Shipped,Nashik
+ORD0827,CUST1276,Skin Cream,Beauty,2,0,0,2025-02-11,UPI,Delivered,Mumbai
+ORD0828,CUST1246,Shoes,Clothing,-1,1999,-1999,2025-01-17,Debit Card,Delivered,Navi Mumbai
+ORD0829,CUST1158,T-Shirt,Clothing,4,699,2796,2025-07-16,Cash on Delivery,Cancelled,Kolhapur
+ORD0830,CUST1057,Smartwatch,Electronics,5,3999,19995,2025-05-26,Debit Card,Shipped,Pune
+ORD0831,CUST1209,Skin Cream,Beauty,3,749,2247,2025-10-06,UPI,Delivered,Kolhapur
+ORD0832,CUST1283,Novel,Books,4,499,1996,2025-08-02,Debit Card,Delivered,Nagpur
+ORD0833,CUST1010,Smartphone,Electronics,5,18999,94995,2025-05-09,Debit Card,Delivered,Navi Mumbai
+ORD0834,CUST1018,Jeans,Clothing,3,1499,4497,2025-08-08,Debit Card,Delivered,Mumbai
+ORD0835,CUST1038,Shampoo,Beauty,2,599,1198,2025-11-23,Debit Card,Delivered,Kolhapur
+ORD0836,CUST1082,Headphones,Electronics,3,2499,7497,2025-02-04,Net Banking,Delivered,Nagpur
+ORD0837,CUST1194,Novel,Books,1,499,499,2025-07-23,Debit Card,Delivered,Navi Mumbai
+ORD0838,CUST1217,Smartphone,Electronics,4,18999,75996,2025-03-29,UPI,Processing,Satara
+ORD0839,CUST1146,Jeans,Clothing,2,1499,2998,2025-12-24,Credit Card,Delivered,Satara
+ORD0840,CUST1119,Business Book,Books,1,699,699,2025-09-09,Credit Card,Delivered,Aurangabad
+ORD0841,CUST1271,Skin Cream,Beauty,2,749,1498,2025-02-13,Credit Card,Delivered,Nashik
+ORD0842,CUST1067,Shampoo,Beauty,2,599,1198,2025-02-20,Net Banking,Delivered,
+ORD0843,CUST1138,Dinner Set,Home & Kitchen,2,1299,2598,2025-01-04,UPI,Delivered,Nashik
+ORD0844,CUST1205,Jeans,Clothing,1,1499,1499,2025-08-07,Debit Card,Delivered,Aurangabad
+ORD0845,CUST1168,Skin Cream, Electronics ,3,749,2247,2025-09-16,Debit Card,Delivered,Kolhapur
+ORD0846,CUST1262,Novel,Books,5,499,2495,2025-06-04,UPI,Delivered,Pune
+ORD0847,CUST1077,Smartphone,Electronics,2,18999,37998,2025-09-06,Cash on Delivery,Delivered,Satara
+ORD0848,CUST1216,Jacket,Clothing,3,2499,7497,2025-08-15,Net Banking,Shipped,Navi Mumbai
+ORD0849,CUST1013,Smartphone,Electronics,5,18999,94995,2025-09-25,Credit Card,Delivered,Thane
+ORD0850,CUST1259,Shoes,Clothing,5,1999,9995,2025-02-04,Net Banking,Delivered,Navi Mumbai
+ORD0851,CUST1162,Laptop,Electronics,2,55000,110000,2025-04-26,Debit Card,Delivered,Navi Mumbai
+ORD0852,CUST1226,Laptop,Electronics,1,55000,55000,2025-01-20,Credit Card,Delivered,Navi Mumbai
+ORD0853,CUST1091,Smartphone,Electronics,3,18999,56997,2025-11-22,Credit Card,Cancelled,Nagpur
+ORD0854,CUST1072,Smartwatch,Electronics,1,3999,3999,2025-12-15,Net Banking,Processing,Pune
+ORD0855,CUST1166,Jacket,Clothing,5,2499,12495,2025-10-01,Net Banking,Cancelled,Nashik
+ORD0856,CUST1176,Laptop,Electronics,2,55000,110000,2025-05-03,Cash on Delivery,Processing,Pune
+ORD0857,CUST1156,Laptop,Electronics,3,55000,165000,2025-04-08,Credit Card,Delivered,Kolhapur
+ORD0858,CUST1231,Smartphone,Electronics,4,18999,75996,2025-06-30,Net Banking,Processing,Satara
+ORD0859,CUST1053,Cookware Set,Home & Kitchen,2,2499,4998,2025-02-16,Debit Card,Delivered,Navi Mumbai
+ORD0860,CUST1147,Data Science Book,Books,2,899,1798,2025-02-17,UPI,Returned,Aurangabad
+ORD0861,CUST1064,Electric Kettle,Home & Kitchen,4,1799,7196,2025-01-03,Net Banking,Returned,Pune
+ORD0862,CUST1039,Skin Cream,Beauty,3,749,2247,2025-01-21,Credit Card,Delivered,Mumbai
+ORD0863,CUST1159,Skin Cream,Beauty,3,749,2247,2025-10-18,Cash on Delivery,Returned,Kolhapur
+ORD0864,CUST1051,Novel,Books,3,499,1497,2025-07-10,Credit Card,Processing,Satara
+ORD0865,CUST1230,Laptop,Electronics,2,55000,110000,2025-07-07,Net Banking,Returned,Mumbai
+ORD0866,CUST1177,Jeans,Clothing,5,1499,7495,2025-02-18,Debit Card,Delivered,Satara
+ORD0867,CUST1255,Mixer Grinder,Home & Kitchen,2,3299,6598,2025-08-18,Cash on Delivery,Delivered,Ahilyanagar
+ORD0868,CUST1259,Headphones,Electronics,1,2499,2499,2025-05-24,Cash on Delivery,Shipped,Thane
+ORD0869,CUST1155,Skin Cream,Beauty,5,749,3745,2025-11-18,Credit Card,Delivered,Aurangabad
+ORD0870,CUST1199,Business Book,Books,1,699,699,2025-04-27,Net Banking,Delivered,Aurangabad
+ORD0871,CUST1058,Novel,Books,4,499,1996,2025-09-21,Credit Card,Delivered,Kolhapur
+ORD0872,CUST1080,Laptop,Electronics,2,55000,110000,2025-10-12,Cash on Delivery,Delivered,Aurangabad
+ORD0873,CUST1093,Jacket,Clothing,1,2499,2499,2025-08-20,Cash on Delivery,Delivered,Ahilyanagar
+ORD0874,CUST1216,T-Shirt,Clothing,1,699,699,2025-04-01,Net Banking,Delivered,Nashik
+ORD0875,CUST1215,Smartwatch,Electronics,4,3999,15996,2025-11-24,Net Banking,Shipped,Navi Mumbai
+ORD0876,CUST1025,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-02-27,UPI,Cancelled,Pune
+ORD0877,CUST1182,Laptop,Electronics,4,55000,220000,2025-06-02,Net Banking,Processing,Satara
+ORD0878,CUST1087,Cookware Set,Home & Kitchen,2,2499,4998,2025-03-23,Credit Card,Delivered,Ahilyanagar
+ORD0879,CUST1209,Shoes,Clothing,4,1999,7996,2025-03-06,Debit Card,Returned,Nagpur
+ORD0880,CUST1216,Face Wash,Beauty,3,399,1197,2025-02-15,Cash on Delivery,Delivered,Pune
+ORD0881,CUST1028,Laptop,Electronics,3,55000,165000,2025-01-24,Cash on Delivery,Cancelled,Pune
+ORD0882,CUST1193,Headphones,Electronics,1,2499,2499,2025-09-24,Credit Card,Delivered,Ahilyanagar
+ORD0883,CUST1297,Jeans,Clothing,3,1499,4497,2025-04-13,Credit Card,Delivered,Navi Mumbai
+ORD0884,CUST1049,Headphones,Electronics,4,2499,9996,2025-01-07,Credit Card,Delivered,Mumbai
+ORD0885,CUST1117,Skin Cream,Beauty,4,749,2996,2025-10-03,Cash on Delivery,Delivered,Pune
+ORD0886,CUST1080,Jacket,Clothing,4,2499,9996,2025-08-05,Credit Card,Delivered,Ahilyanagar
+ORD0887,CUST1181,Laptop,Electronics,3,55000,165000,2025-04-19,Cash on Delivery,Delivered,Nagpur
+ORD0888,CUST1022,Laptop,Electronics,2,55000,110000,2025-06-18,Credit Card,Shipped,Navi Mumbai
+ORD0889,CUST1273,Smartphone,Electronics,2,18999,37998,2025-03-26,Cash on Delivery,Delivered,Kolhapur
+ORD0890,CUST1244,T-Shirt,Clothing,5,699,3495,2025-01-02,Debit Card,Shipped,Satara
+ORD0891,CUST1243,Electric Kettle,Home & Kitchen,3,1799,5397,2025-01-02,UPI,Processing,Ahilyanagar
+ORD0892,CUST1270,Novel,Books,4,499,1996,2025-01-29,Cash on Delivery,Delivered,Pune
+ORD0893,CUST1069,Smartwatch,Electronics,2,3999,7998,2025-06-20,Net Banking,Delivered,Pune
+ORD0894,CUST1062,Smartwatch,Electronics,2,3999,7998,2025-01-09,UPI,Delivered,Mumbai
+ORD0895,CUST1260,Business Book,Books,2,699,1398,2025-06-06,Credit Card,Delivered,Pune
+ORD0896,CUST1114,Novel,Books,3,499,1497,2025-09-27,Credit Card,Delivered,Satara
+ORD0897,CUST1112,Skin Cream,Beauty,4,749,2996,2025-02-27,UPI,Processing,Nagpur
+ORD0898,CUST1293,T-Shirt,Clothing,4,699,2796,2025-02-21,Cash on Delivery,Processing,Ahilyanagar
+ORD0899,CUST1234,Headphones,Electronics,5,2499,12495,2025-05-17,UPI,Delivered,Mumbai
+ORD0900,CUST1253,Headphones,Electronics,2,2499,4998,2025-07-04,,Delivered,Nashik
+ORD0901,CUST1231,Mixer Grinder,Home & Kitchen,3,3299,9897,2025-05-21,Cash on Delivery,Delivered,Navi Mumbai
+ORD0902,CUST1064,Smartphone,Electronics,1,18999,18999,2025-06-21,Cash on Delivery,Processing,Mumbai
+ORD0903,CUST1300,T-Shirt,Clothing,2,699,1398,2025-04-16,Credit Card,Processing,Kolhapur
+ORD0904,CUST1026,Python Book,Books,3,799,2397,2025-01-03,UPI,Processing,Ahilyanagar
+ORD0905,CUST1298,Shoes,Clothing,2,1999,3998,2025-11-01,Cash on Delivery,Delivered,Mumbai
+ORD0906,CUST1085,Laptop,Electronics,2,55000,110000,2025-05-26,Cash on Delivery,Delivered,Aurangabad
+ORD0907,CUST1030,Laptop,Electronics,2,55000,110000,2025-09-12,Credit Card,Delivered,Kolhapur
+ORD0908,CUST1261,Smartwatch,Electronics,1,3999,3999,2025-10-02,Debit Card,Processing,Thane
+ORD0909,CUST1190,Electric Kettle,Home & Kitchen,2,1799,3598,2025-01-27,Debit Card,Delivered,Satara
+ORD0910,CUST1229,Novel,Books,1,499,499,2025-10-16,Debit Card,Delivered,Navi Mumbai
+ORD0911,,Shoes,Clothing,4,1999,7996,2025-03-13,Credit Card,Shipped,Ahilyanagar
+ORD0912,CUST1107,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-06-10,UPI,Delivered,Mumbai
+ORD0913,CUST1154,Laptop,Electronics,5,55000,275000,2025-02-08,UPI,Delivered,Mumbai
+ORD0914,CUST1106,Shampoo,Beauty,2,599,1198,2025-06-15,Credit Card,Delivered,Thane
+ORD0915,CUST1070,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-07-05,Credit Card,Delivered,Nashik
+ORD0916,CUST1141,Electric Kettle,Home & Kitchen,2,1799,3598,2025-03-30,Net Banking,Delivered,Ahilyanagar
+ORD0917,CUST1226,T-Shirt,Clothing,4,699,2796,2025-09-26,Debit Card,Returned,Nashik
+ORD0918,CUST1247,Jacket,Clothing,2,2499,4998,2025-04-30,UPI,Shipped,Mumbai
+ORD0919,CUST1139,Perfume,Beauty,4,1299,5196,2025-05-13,UPI,Shipped,Ahilyanagar
+ORD0920,CUST1012,Perfume,Beauty,5,1299,6495,2025-07-29,Net Banking,Delivered,Ahilyanagar
+ORD0921,CUST1139,Smartwatch,Electronics,3,3999,11997,2025-12-22,Credit Card,Delivered,Nashik
+ORD0922,CUST1042,Electric Kettle,Home & Kitchen,4,1799,7196,2025-12-17,UPI,Delivered,Satara
+ORD0923,CUST1152,Smartwatch,Electronics,3,3999,11997,2025-09-15,Credit Card,Shipped,Nashik
+ORD0924,,T-Shirt,Clothing,3,699,2097,2025-11-30,UPI,Delivered,Ahilyanagar
+ORD0925,CUST1087,Cookware Set,Home & Kitchen,2,2499,4998,2025-10-21,Net Banking, SHIPPED ,Ahilyanagar
+ORD0926,CUST1028,Skin Cream,Beauty,4,749,2996,2025-12-22,Net Banking,Shipped,Thane
+ORD0927,CUST1204,Jacket,Clothing,4,2499,9996,2025-08-19,Credit Card,Delivered,Aurangabad
+ORD0928,CUST1267,Face Wash,Beauty,1,399,399,2025-03-26,Net Banking,Delivered,Pune
+ORD0929,CUST1174,Jacket,Clothing,1,2499,2499,2025-04-04,Net Banking,Returned,Navi Mumbai
+ORD0930,CUST1227,Smartwatch,Electronics,1,3999,3999,2025-01-27,Credit Card,Shipped,Ahilyanagar
+ORD0931,CUST1020,Shoes,Clothing,5,1999,9995,2025-12-07,Net Banking,Delivered,Mumbai
+ORD0932,CUST1225,Smartphone,CLOTHING,2,18999,37998,2025-06-18,UPI,Delivered,Nashik
+ORD0933,CUST1094,Mixer Grinder,Home & Kitchen,1,3299,3299,2025-10-18,Net Banking,Delivered,Navi Mumbai
+ORD0934,CUST1069,Headphones,Electronics,3,2499,7497,2025-11-05,UPI,Delivered,Mumbai
+ORD0935,CUST1205,Dinner Set,Home & Kitchen,2,1299,2598,2025-11-28,Net Banking,Delivered,Kolhapur
+ORD0936,CUST1178,Smartwatch,Electronics,4,3999,15996,2025-05-17,Net Banking,Returned,Mumbai
+ORD0937,CUST1208,Mixer Grinder,Home & Kitchen,5,3299,16495,2025-08-02,UPI,Processing,Mumbai
+ORD0938,CUST1060,Headphones,Electronics,4,2499,9996,2025-03-31,Debit Card,Delivered,Mumbai
+ORD0939,CUST1153,T-Shirt,Clothing,1,699,699,2025-10-16,Net Banking,Returned,Kolhapur
+ORD0940,CUST1158,Jeans,Clothing,5,1499,7495,2025-10-03,Debit Card,Processing,Thane
+ORD0941,CUST1018,Jacket,Clothing,1,2499,2499,2025-08-19,UPI,Delivered,Aurangabad
+ORD0942,CUST1101,Electric Kettle,Home & Kitchen,3,1799,5397,2025-04-30,Credit Card,Delivered,Nagpur
+ORD0943,CUST1218,Perfume,Beauty,5,1299,6495,2025-01-11,Net Banking,Delivered,Pune
+ORD0944,CUST1012,Smartwatch,Electronics,3,3999,11997,2025-01-16,Debit Card,Delivered,Mumbai
+ORD0945,CUST1297,Shoes,Clothing,1,1999,1999,2025-10-15,Debit Card,Processing,Mumbai
+ORD0946,CUST1103,Smartphone,Electronics,5,18999,94995,2025-09-16,UPI,Processing,
+ORD0947,CUST1121,Laptop,Electronics,5,55000,275000,2025-01-26,Credit Card,Cancelled,Satara
+ORD0948,CUST1224,Jacket,Clothing,5,2499,12495,2025-04-16,UPI,Delivered,Nagpur
+ORD0949,CUST1025,Smartwatch,Electronics,5,3999,19995,2025-07-10,Debit Card,Returned,Mumbai
+ORD0950,CUST1227,Smartphone,Electronics,2,18999,37998,2025-05-17,Cash on Delivery,Processing,Aurangabad
+ORD0951,CUST1235,Smartphone,Electronics,4,18999,75996,2025-12-21,Debit Card,Processing,Navi Mumbai
+ORD0952,CUST1101,Jacket,Clothing,3,2499,7497,2025-01-15,Net Banking,Processing,Mumbai
+ORD0953,CUST1271,Smartwatch,Electronics,2,3999,7998,2025-03-25,Cash on Delivery,delivered,Mumbai
+ORD0954,CUST1194,Headphones,Electronics,2,2499,4998,2025-11-27,Debit Card,Processing,Ahilyanagar
+ORD0955,CUST1202,Python Book,Books,2,799,1598,2025-04-28,Debit Card,Returned,Nashik
+ORD0956,CUST1295,Laptop,Electronics,4,55000,220000,2025-03-16,,Processing,
+ORD0957,CUST1151,Mixer Grinder,Home & Kitchen,4,3299,13196,2025-11-02,Net Banking,Cancelled,Thane
+ORD0958,CUST1149,Jacket,Clothing,3,2499,7497,2025-04-11,Credit Card,Delivered,Thane
+ORD0959,CUST1095,Dinner Set,Home & Kitchen,1,1299,1299,2025-02-12,Credit Card,Cancelled,Nashik
+ORD0960,CUST1258,Perfume,Beauty,5,1299,6495,2025-11-18,Net Banking,Delivered,Navi Mumbai
+ORD0961,CUST1262,Laptop,Electronics,4,55000,220000,2025-06-07,Debit Card,Delivered,Ahilyanagar
+ORD0962,CUST1047,Laptop,Electronics,2,55000,110000,2025-06-17,Debit Card,Shipped,Thane
+ORD0963,CUST1156,Smartwatch,Electronics,4,3999,15996,2025-11-09,Cash on Delivery,Delivered,Ahilyanagar
+ORD0964,CUST1116,Shampoo,Beauty,2,599,1198,2025-06-12,Net Banking,Returned,Mumbai
+ORD0965,CUST1237,Shoes,Clothing,2,1999,3998,2025-04-28,Net Banking,Delivered,Nagpur
+ORD0966,CUST1103,Data Science Book,Books,2,899,1798,2025-10-13,Credit Card,Delivered,Mumbai
+ORD0967,CUST1053,Shoes,Clothing,4,1999,7996,2025-07-09,Credit Card,Returned,Satara
+ORD0968,CUST1230,Novel,Books,1,499,499,2025-01-07,Cash on Delivery,Delivered,Satara
+ORD0969,CUST1263,Skin Cream,Beauty,4,749,2996,2025-12-26,Net Banking,Delivered,Mumbai
+ORD0970,CUST1115,Cookware Set,Home & Kitchen,1,2499,2499,2025-10-31,Credit Card,Delivered,Satara
+ORD0971,CUST1039,Laptop,Electronics,4,55000,220000,2025-10-08,Debit Card,Delivered,Nagpur
+ORD0972,CUST1123,Electric Kettle,Home & Kitchen,4,1799,7196,2025-08-01,UPI,Cancelled,Nashik
+ORD0973,CUST1258,Skin Cream,Beauty,5,749,3745,2025-04-15,Cash on Delivery,Returned,Thane
+ORD0974,CUST1258,Skin Cream,Beauty,2,749,1498,2025-07-20,Net Banking,Delivered,Mumbai
+ORD0975,CUST1111,Perfume,Beauty,5,1299,6495,2025-09-03,Cash on Delivery,Delivered,Nashik
+ORD0976,CUST1040,T-Shirt,Clothing,3,699,2097,2025-10-16,Net Banking,Delivered,Thane
+ORD0977,CUST1242,Shampoo,Beauty,1,599,599,2025-03-28,Net Banking,Returned,Mumbai
+ORD0978,CUST1278,Perfume,Beauty,2,1299,2598,2025-10-29,Debit Card,Shipped,Navi Mumbai
+ORD0979,CUST1296,T-Shirt,Clothing,5,699,3495,2025-08-07,Credit Card,delivered,Pune
+ORD0980,CUST1009,Shampoo,Beauty,4,599,2396,2025-08-09,UPI,Returned,Ahilyanagar
+ORD0981,CUST1248,T-Shirt,Clothing,2,699,1398,2025-09-19,Debit Card,Delivered,Pune
+ORD0982,CUST1195,Headphones,Electronics,2,2499,4998,2025-08-21,Debit Card,Delivered,Kolhapur
+ORD0983,CUST1164,Smartphone,Electronics,3,18999,56997,2025-04-28,Net Banking,Delivered,Navi Mumbai
+ORD0984,CUST1286,Smartphone,Electronics,4,18999,75996,2025-09-10,Cash on Delivery,Delivered,Nagpur
+ORD0985,CUST1080,Electric Kettle,Home & Kitchen,4,1799,7196,2025-11-04,Net Banking,Returned,Pune
+ORD0986,CUST1007,Smartwatch,Electronics,3,3999,11997,2025-04-13,Debit Card,Delivered,Satara
+ORD0987,CUST1292,Jeans,Clothing,1,1499,1499,2025-08-21,UPI,Delivered,Pune
+ORD0988,CUST1284,Electric Kettle,Home & Kitchen,5,1799,8995,2025-04-24,Cash on Delivery,Delivered,Thane
+ORD0989,CUST1201,Shoes,Clothing,2,1999,3998,2025-05-20,Debit Card,Delivered,Navi Mumbai
+ORD0990,CUST1141,Business Book,Books,5,699,3495,2025-08-28,Cash on Delivery,Shipped,Nashik
+ORD0991,CUST1109,Headphones,Electronics,3,2499,7497,2025-03-03,Net Banking,Processing,Aurangabad
+ORD0992,CUST1289,Smartphone,Electronics,4,18999,75996,2025-04-01,UPI,Returned,Thane
+ORD0993,CUST1123,Jeans,Clothing,5,1499,7495,2025-03-05,,Delivered,Pune
+ORD0994,CUST1105,Dinner Set,Home & Kitchen,5,1299,6495,2025-12-15,Cash on Delivery,Delivered,Navi Mumbai
+ORD0995,CUST1096,T-Shirt,Clothing,2,699,1398,2025-06-25,UPI,Processing,Aurangabad
+ORD0996,CUST1226,Skin Cream,Beauty,4,749,2996,2025-06-12,UPI,Delivered,Mumbai
+ORD0997,CUST1086,T-Shirt,Clothing,2,699,1398,2025-09-01,Debit Card,Delivered,Kolhapur
+ORD0998,CUST1279,Shoes,Clothing,3,1999,5997,2025-05-13,UPI,Returned,Aurangabad
+ORD0999,CUST1179,Smartwatch,Electronics,3,3999,11997,2025-10-03,Net Banking,Delivered,Aurangabad
+ORD1000,CUST1034,Jacket,Clothing,3,2499,7497,2025-02-23,Credit Card,Returned,Pune
+ORD0001,CUST1189,T-Shirt,Clothing,3,699,2097,2025-03-13,Net Banking,Delivered,Nashik
+ORD0002,CUST1152,Headphones,Electronics,5,2499,12495,2025-04-10,,Delivered,Mumbai
+ORD0003,CUST1277,Python Book,Books,2,799,1598,2025-07-11,UPI,Delivered,Aurangabad
+ORD0004,CUST1170,Smartphone,Electronics,1,18999,18999,2025-02-28,Cash on Delivery,Returned,Nashik
+ORD0005,CUST1135,Shoes,Clothing,1,1999,1999,2025-05-11,Net Banking,Delivered,Mumbai
+ORD0006,CUST1053,Perfume,Beauty,2,1299,2598,2025-09-22,Credit Card,Shipped,Navi Mumbai
+ORD0007,CUST1081,Dinner Set,Home & Kitchen,3,1299,3897,2025-07-25,Cash on Delivery,Delivered,Nagpur
+ORD0008,CUST1191,Jeans,Clothing,2,1499,2998,2025-09-17,Credit Card,Processing,Mumbai
+ORD0009,CUST1296,Shoes,Clothing,4,1999,7996,2025-07-09,Net Banking,Delivered,Mumbai
+ORD0010,CUST1252,Dinner Set,Home & Kitchen,2,1299,2598,2025-08-05,Cash on Delivery,Delivered,Kolhapur
